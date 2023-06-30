@@ -21,8 +21,8 @@ mongocli = MongoClient('mongodb+srv://hbg:**cluster0.uetxd.mongodb.net/:27017')
 county='lee'
 bucket_name='pdw-database'
 
-s3 = boto3.client('s3', region_name='us-west-2', aws_access_key_id='AKIAT34F3EZ4VO3PMWRA',
-                  aws_secret_access_key='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')
+s3 = boto3.client('s3', region_name='us-west-2', aws_access_key_id='**',
+                  aws_secret_access_key='**+')
 
 try:
     os.mkdir('downloads')
