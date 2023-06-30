@@ -1,0 +1,503 @@
+{
+    "parcel_id": "01-43-20-00-00001.0000",
+    "parcel_id_": "01432000000010000",
+    "folio": "10000000",
+    "url": "https://www.leepa.org/Display/DisplayParcel.aspx?FolioID=10000000&ViewMobile=false",
+    "property_info": {
+        "owner": "MOTE MARINE LABORATORY INC, 1600 KEN THOMPSON PKWY, SARASOTA FL 34236",
+        "site_address": "ISLAND, BOCA GRANDE FL 33921",
+        "legal_description": "GOVT LOT 1, IN SEC 01 TWN 43 RGE 20, DEVILFISH KEY",
+        "classification": "SEWAGE DISPOSAL, WASTE LANDS / 96",
+        "map_image": "http://gissvr.leepa.org/TaxMapImage/TaxMapImage.aspx?FolioID=10000000&w=387&h=290",
+        "attributes": {
+            "Just": "16,450",
+            "Land Units Of Measure": "AC",
+            "Units": "16.45",
+            "Total Number of Buildings": "0",
+            "Total Bedrooms / Bathrooms": "0",
+            "Total Living Area": "0",
+            "1st Year Building on Tax Roll": "N/A",
+            "Historic Designation": "No"
+        },
+        "tax_map_viewer": "http://gissvr.leepa.org/geoview2/?folioid=10000000",
+        "aerial_viewer": "http://gissvr.leepa.org/pictoipa/default.aspx?folioid=10000000",
+        "images": []
+    },
+    "exemptions": [],
+    "values": [
+        {
+            "Just": "16,450",
+            "Assessed": "16,450",
+            "Portability Applied": "0",
+            "Cap Assessed": "16,450",
+            "Taxable": "16,450",
+            "Cap Difference": "0"
+        },
+        {
+            "Land Units Of Measure": "AC",
+            "Units": "16.45",
+            "Total Number of Buildings": "0",
+            "Total Bedrooms / Bathrooms": "0",
+            "Total Living Area": "0",
+            "1st Year Building on Tax Roll": "N/A",
+            "Historic Designation": "No"
+        }
+    ],
+    "tax_authorities": [
+        {
+            "Name / Code": "LEE CO GENERAL REVENUE / 044",
+            "Category": "County",
+            "Mailing Address": "LEE COUNTY OFFICE OF MGMT & BUDGETPO BOX 398FORT MYERS FL 33902-0398"
+        },
+        {
+            "Name / Code": "LEE CO ALL HAZARDS PROTECTION DIST / 101",
+            "Category": "Dependent District",
+            "Mailing Address": "LEE COUNTY OFFICE OF MGMT & BUDGETPO BOX 398FORT MYERS FL 33902-0398"
+        },
+        {
+            "Name / Code": "LEE CO LIBRARY DIST / 052",
+            "Category": "Dependent District",
+            "Mailing Address": "LEE COUNTY OFFICE OF MGMT & BUDGETPO BOX 398FORT MYERS FL 33902-0398"
+        },
+        {
+            "Name / Code": "LEE CO UNINCORPORATED MSTU / 020",
+            "Category": "Dependent District",
+            "Mailing Address": "LEE COUNTY OFFICE OF MGMT & BUDGETPO BOX 398FORT MYERS FL 33902-0398"
+        },
+        {
+            "Name / Code": "LEE CO HYACINTH CONTROL DIST / 051",
+            "Category": "Independent District",
+            "Mailing Address": "LEE CO HYACINTH CONTROL DIST15191 HOMESTEAD RDLEHIGH ACRES FL 33971"
+        },
+        {
+            "Name / Code": "LEE CO MOSQUITO CONTROL DIST / 053",
+            "Category": "Independent District",
+            "Mailing Address": "LEE CO MOSQUITO CONTROL DIST15191 HOMESTEAD RDLEHIGH ACRES FL 33971"
+        },
+        {
+            "Name / Code": "WEST COAST INLAND NAVIGATION DIST / 098",
+            "Category": "Independent District",
+            "Mailing Address": "WEST COAST INLAND NAVIGATION DIST200 MIAMI AVE EVENICE FL 34285-2408"
+        },
+        {
+            "Name / Code": "PUBLIC SCHOOL - BY LOCAL BOARD / 012",
+            "Category": "Public Schools",
+            "Mailing Address": "LEE COUNTY SCHOOL BOARDBUDGET DEPARTMENT2855 COLONIAL BLVDFORT MYERS FL 33966"
+        },
+        {
+            "Name / Code": "PUBLIC SCHOOL - BY STATE LAW / 013",
+            "Category": "Public Schools",
+            "Mailing Address": "LEE COUNTY SCHOOL BOARDBUDGET DEPARTMENT2855 COLONIAL BLVDFORT MYERS FL 33966"
+        },
+        {
+            "Name / Code": "SFWMD-DISTRICT-WIDE / 110",
+            "Category": "Water District",
+            "Mailing Address": "SFWMD3301 GUN CLUB RDWEST PALM BEACH FL 33406"
+        },
+        {
+            "Name / Code": "SFWMD-EVERGLADES CONSTRUCTION PROJECT / 084",
+            "Category": "Water District",
+            "Mailing Address": "SFWMD3301 GUN CLUB RDWEST PALM BEACH FL 33406"
+        },
+        {
+            "Name / Code": "SFWMD-OKEECHOBEE BASIN / 308",
+            "Category": "Water District",
+            "Mailing Address": "SFWMD3301 GUN CLUB RDWEST PALM BEACH FL 33406"
+        }
+    ],
+    "sales": [
+        {
+            "Sale Price": "100.00",
+            "Date": "04/30/2004",
+            "OR Number": "4333/2111",
+            "Type": "04",
+            "Description": "Sales disqualified as a result of examination of the deed Disqualified (Multiple STRAP # - 01,03,04,07)",
+            "Vacant/Improved": "V"
+        },
+        {
+            "Sale Price": "100.00",
+            "Date": "03/23/1999",
+            "OR Number": "3099/2640",
+            "Type": "04",
+            "Description": "Sales disqualified as a result of examination of the deed Disqualified (Multiple STRAP # - 01,03,04,07)",
+            "Vacant/Improved": "V"
+        },
+        {
+            "Sale Price": "100.00",
+            "Date": "12/01/1993",
+            "OR Number": "2459/114",
+            "Type": "04",
+            "Description": "Sales disqualified as a result of examination of the deed Disqualified (Multiple STRAP # - 01,03,04,07)",
+            "Vacant/Improved": "V"
+        },
+        {
+            "Sale Price": "100.00",
+            "Date": "12/01/1979",
+            "OR Number": "1402/755",
+            "Type": "04",
+            "Description": "Sales disqualified as a result of examination of the deed Disqualified (Multiple STRAP # - 01,03,04,07)",
+            "Vacant/Improved": "V"
+        }
+    ],
+    "PermitDetails": [
+        {
+            "Permit Number": "COM2018-10233",
+            "Permit Type": "Building Addition",
+            "Date": "10/23/2018"
+        },
+        {
+            "Permit Number": "COM2015-02161",
+            "Permit Type": "Building New Construction",
+            "Date": "12/11/2015"
+        },
+        {
+            "Permit Number": "RES2015-05578",
+            "Permit Type": "Building Window / Door Replacement",
+            "Date": "09/17/2015"
+        },
+        {
+            "Permit Number": "FNC2011-01509",
+            "Permit Type": "Fence",
+            "Date": "12/19/2011"
+        },
+        {
+            "Permit Number": "FNC2010-01201",
+            "Permit Type": "Fence",
+            "Date": "09/21/2010"
+        },
+        {
+            "Permit Number": "513777",
+            "Permit Type": "Residential",
+            "Date": "11/22/1985"
+        }
+    ],
+    "parcel_numbring_history": [
+        {
+            "Prior STRAP": "00-00-00-00-00000.",
+            "Prior Folio ID": "N/A",
+            "Renumber Reason": "N/A",
+            "Renumber Date": ""
+        }
+    ],
+    "solid_waste": [
+        {
+            "Solid Waste District": "006 - Service Area 6",
+            "Roll Type": "-",
+            "Category": "",
+            "Unit / Area": "0",
+            "Tax Amount": "0.00"
+        }
+    ],
+    "flood_zone": [
+        {
+            "Community": "125124",
+            "Panel": "0038",
+            "Version": "F",
+            "Date": "8/28/2008",
+            "Evacuation Zone": "A"
+        }
+    ],
+    "address_history": [
+        {
+            "Street Number": "",
+            "Street Name": "ISLAND",
+            "Unit": "",
+            "City": "Boca Grande",
+            "Zip": "33921",
+            "Maintenance Date": "10/27/2000 4:13:31 PM"
+        },
+        {
+            "Street Number": "0",
+            "Street Name": "ISLAND",
+            "Unit": "",
+            "City": "Boca Grande",
+            "Zip": "33921",
+            "Maintenance Date": "12/9/1998 1:55:39 PM"
+        },
+        {
+            "Street Number": "10",
+            "Street Name": "ISLAND",
+            "Unit": "",
+            "City": "Boca Grande",
+            "Zip": "33921",
+            "Maintenance Date": "12/9/1998 1:55:27 PM"
+        },
+        {
+            "Street Number": "0",
+            "Street Name": "ISLAND",
+            "Unit": "",
+            "City": "Boca Grande",
+            "Zip": "33921",
+            "Maintenance Date": "1/30/1997 4:46:59 PM"
+        },
+        {
+            "Street Number": "0",
+            "Street Name": "ISLAND",
+            "Unit": "99",
+            "City": "Boca Grande",
+            "Zip": "33921",
+            "Maintenance Date": "1/30/1997 4:46:30 PM"
+        },
+        {
+            "Street Number": "0",
+            "Street Name": "ISLAND",
+            "Unit": "",
+            "City": "Boca Grande",
+            "Zip": "33921",
+            "Maintenance Date": "1/28/1997 3:44:03 PM"
+        },
+        {
+            "Street Number": "0",
+            "Street Name": "ISLAND",
+            "Unit": "99",
+            "City": "Boca Grande",
+            "Zip": "33921",
+            "Maintenance Date": "1/28/1997 3:41:24 PM"
+        },
+        {
+            "Street Number": "0",
+            "Street Name": "ISLAND",
+            "Unit": "",
+            "City": "Boca Grande",
+            "Zip": "33921",
+            "Maintenance Date": "1/24/1997 2:44:49 PM"
+        },
+        {
+            "Street Number": "100",
+            "Street Name": "ISLAND",
+            "Unit": "",
+            "City": "Boca Grande",
+            "Zip": "33921",
+            "Maintenance Date": "1/24/1997 2:44:32 PM"
+        },
+        {
+            "Street Number": "0",
+            "Street Name": "ISLAND",
+            "Unit": "",
+            "City": "Boca Grande",
+            "Zip": "33921",
+            "Maintenance Date": "1/24/1997 2:42:53 PM"
+        },
+        {
+            "Street Number": "200",
+            "Street Name": "ISLAND",
+            "Unit": "",
+            "City": "Boca Grande",
+            "Zip": "33921",
+            "Maintenance Date": "1/24/1997 2:42:40 PM"
+        },
+        {
+            "Street Number": "0",
+            "Street Name": "ISLAND",
+            "Unit": "",
+            "City": "Boca Grande",
+            "Zip": "33921",
+            "Maintenance Date": ""
+        }
+    ],
+    "appraisal_details": {
+        "Land": {
+            "Land Tracts": [
+                {
+                    "Use Code": "9650",
+                    "Use Code Description": "Mangrove",
+                    "Number of Units": "16.45",
+                    "Unit of Measure": "Acres"
+                }
+            ]
+        }
+    },
+    "appraisal_details_current": {
+        "Land": {
+            "Land Tracts": [
+                {
+                    "Use Code": "9650",
+                    "Use Code Description": "Mangrove",
+                    "Number of Units": "16.45",
+                    "Unit of Measure": "Acres"
+                }
+            ]
+        }
+    },
+    "trim_pdfs": [
+        {
+            "2007": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000000&TaxYear=2007"
+        },
+        {
+            "2008": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000000&TaxYear=2008"
+        },
+        {
+            "2009": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000000&TaxYear=2009"
+        },
+        {
+            "2010": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000000&TaxYear=2010"
+        },
+        {
+            "2011": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000000&TaxYear=2011"
+        },
+        {
+            "2012": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000000&TaxYear=2012"
+        },
+        {
+            "2013": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000000&TaxYear=2013"
+        },
+        {
+            "2014": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000000&TaxYear=2014"
+        },
+        {
+            "2015": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000000&TaxYear=2015"
+        },
+        {
+            "2016": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000000&TaxYear=2016"
+        },
+        {
+            "2017": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000000&TaxYear=2017"
+        },
+        {
+            "2018": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000000&TaxYear=2018"
+        },
+        {
+            "2019": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000000&TaxYear=2019"
+        },
+        {
+            "2020": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000000&TaxYear=2020"
+        }
+    ],
+    "location_information": {
+        "Township": "43",
+        "Range": "20E",
+        "Section": "01",
+        "Block": "",
+        "Lot": "",
+        "Municipality": "Lee County Unincorporated - 0",
+        "Latitude": "26.77025",
+        "Longitude": "-82.23764",
+        "google_map": "https://maps.google.com/?z=19&t=k&q=loc:26.77025+-82.23764",
+        "lee_clerk": "",
+        "geo_view": "http://gissvr.leepa.org/geoview2/?FolioId=10000000"
+    },
+    "tax_collector": {
+        "account": "01-43-20-00-00001.0000",
+        "tax_year": "2020",
+        "status": "PAID",
+        "orignal_account": "01-43-20-00-00001.0000",
+        "instrument_number": "4333/2111",
+        "owner": "MOTE MARINE LABORATORY INC",
+        "physical_address": " ISLAND  BOCA GRANDE FL\u00a0\u00a033921",
+        "mailing_address": "1600 KEN THOMPSON PKWY SARASOTA FL\u00a0\u00a034236 USA",
+        "legal_description": "GOVT LOT 1 IN SEC 01 TWN 43 RGE 20 DEVILFISH KEY",
+        "values_and_exemptions": {
+            "District": "050",
+            "Market Assessed Value": "$16,450",
+            "Cap Assessed Value": "$16,450",
+            "Taxable Value": "$16,450",
+            "Combined Tax & Assessment Amount": "$198.80"
+        },
+        "Ad Valorem Taxes": [
+            {
+                "Taxing Authority": "LEE COUNTY GENERAL REVENUE",
+                "Mill Rate": "4.0506",
+                "Assessed": "16,450",
+                "Exempt": "0",
+                "Taxable": "16,450",
+                "Amount": "$66.63"
+            },
+            {
+                "Taxing Authority": "PUBLIC SCHOOL - BY LOCAL BOARD",
+                "Mill Rate": "2.2480",
+                "Assessed": "16,450",
+                "Exempt": "0",
+                "Taxable": "16,450",
+                "Amount": "$36.98"
+            },
+            {
+                "Taxing Authority": "PUBLIC SCHOOL - BY STATE LAW",
+                "Mill Rate": "3.8100",
+                "Assessed": "16,450",
+                "Exempt": "0",
+                "Taxable": "16,450",
+                "Amount": "$62.67"
+            },
+            {
+                "Taxing Authority": "LEE COUNTY ALL HAZARDS - MSTU",
+                "Mill Rate": "0.0693",
+                "Assessed": "16,450",
+                "Exempt": "0",
+                "Taxable": "16,450",
+                "Amount": "$1.14"
+            },
+            {
+                "Taxing Authority": "LEE COUNTY LIBRARY FUND",
+                "Mill Rate": "0.4956",
+                "Assessed": "16,450",
+                "Exempt": "0",
+                "Taxable": "16,450",
+                "Amount": "$8.15"
+            },
+            {
+                "Taxing Authority": "LEE COUNTY UNINCORPORATED - MSTU",
+                "Mill Rate": "0.8398",
+                "Assessed": "16,450",
+                "Exempt": "0",
+                "Taxable": "16,450",
+                "Amount": "$13.81"
+            },
+            {
+                "Taxing Authority": "SFL WATER MGMT-DISTRICT LEVY",
+                "Mill Rate": "0.1103",
+                "Assessed": "16,450",
+                "Exempt": "0",
+                "Taxable": "16,450",
+                "Amount": "$1.81"
+            },
+            {
+                "Taxing Authority": "SFL WATER MGMT-EVERGLADE CONST",
+                "Mill Rate": "0.0380",
+                "Assessed": "16,450",
+                "Exempt": "0",
+                "Taxable": "16,450",
+                "Amount": "$0.63"
+            },
+            {
+                "Taxing Authority": "SFL WATER MGMT-OKEECHOBEE LEVY",
+                "Mill Rate": "0.1192",
+                "Assessed": "16,450",
+                "Exempt": "0",
+                "Taxable": "16,450",
+                "Amount": "$1.96"
+            },
+            {
+                "Taxing Authority": "LEE COUNTY HYACINTH CONTROL",
+                "Mill Rate": "0.0221",
+                "Assessed": "16,450",
+                "Exempt": "0",
+                "Taxable": "16,450",
+                "Amount": "$0.36"
+            },
+            {
+                "Taxing Authority": "LEE COUNTY MOSQUITO CONTROL",
+                "Mill Rate": "0.2439",
+                "Assessed": "16,450",
+                "Exempt": "0",
+                "Taxable": "16,450",
+                "Amount": "$4.01"
+            },
+            {
+                "Taxing Authority": "WEST COAST INLAND NAVIGATION DISTRICT",
+                "Mill Rate": "0.0394",
+                "Assessed": "16,450",
+                "Exempt": "0",
+                "Taxable": "16,450",
+                "Amount": "$0.65"
+            }
+        ],
+        "Non-Ad Valorem Taxes": [],
+        "amount_due_if_paid_in": {
+            "November 2020": "$190.85",
+            "December 2020": "$192.84",
+            "January 2021": "$194.82",
+            "February 2021": "$196.81",
+            "March 2021": "$198.80"
+        }
+    }
+}

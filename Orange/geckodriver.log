@@ -1,0 +1,517 @@
+1606638910192	geckodriver	INFO	Listening on 127.0.0.1:3936
+1606638913222	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NIMRAA~1\\AppData\\Local\\Temp\\rust_mozprofileZcKkYd"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606638916836	Marionette	INFO	Listening on port 3944
+1606638916889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606638957958	Marionette	INFO	Stopped listening on port 3944
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606638959468	geckodriver	INFO	Listening on 127.0.0.1:4051
+1606638962485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NIMRAA~1\\AppData\\Local\\Temp\\rust_mozprofileeJ0WyA"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606638968493	Marionette	INFO	Listening on port 4060
+1606638968582	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1606638996043	Marionette	INFO	Stopped listening on port 4060
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606638999678	geckodriver	INFO	Listening on 127.0.0.1:4172
+1606639002682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NIMRAA~1\\AppData\\Local\\Temp\\rust_mozprofilecx3eu2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606639007309	Marionette	INFO	Listening on port 4180
+1606639007538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607587515012	geckodriver	INFO	Listening on 127.0.0.1:49843
+1607587528462	geckodriver	INFO	Listening on 127.0.0.1:49857
+1607587528499	geckodriver	INFO	Listening on 127.0.0.1:49862
+1607587528533	geckodriver	INFO	Listening on 127.0.0.1:49867
+1607587528574	geckodriver	INFO	Listening on 127.0.0.1:49872
+1607587528611	geckodriver	INFO	Listening on 127.0.0.1:49877
+1607587528914	geckodriver	INFO	Listening on 127.0.0.1:49879
+1607587528978	geckodriver	INFO	Listening on 127.0.0.1:49884
+1607587529024	geckodriver	INFO	Listening on 127.0.0.1:49889
+1607587529054	geckodriver	INFO	Listening on 127.0.0.1:49894
+1607587529083	geckodriver	INFO	Listening on 127.0.0.1:49901
+1607587529113	geckodriver	INFO	Listening on 127.0.0.1:49906
+1607587529143	geckodriver	INFO	Listening on 127.0.0.1:49911
+1607587529174	geckodriver	INFO	Listening on 127.0.0.1:49916
+1607587529205	geckodriver	INFO	Listening on 127.0.0.1:49922
+1607587529235	geckodriver	INFO	Listening on 127.0.0.1:49927
+1607587529265	geckodriver	INFO	Listening on 127.0.0.1:49932
+1607587529296	geckodriver	INFO	Listening on 127.0.0.1:49937
+1607587529327	geckodriver	INFO	Listening on 127.0.0.1:49942
+1607587529357	geckodriver	INFO	Listening on 127.0.0.1:49947
+1607587529388	geckodriver	INFO	Listening on 127.0.0.1:49952
+1607587529419	geckodriver	INFO	Listening on 127.0.0.1:49957
+1607587529451	geckodriver	INFO	Listening on 127.0.0.1:49962
+1607587529481	geckodriver	INFO	Listening on 127.0.0.1:49967
+1607587529513	geckodriver	INFO	Listening on 127.0.0.1:49972
+1607587529544	geckodriver	INFO	Listening on 127.0.0.1:49977
+1607587529576	geckodriver	INFO	Listening on 127.0.0.1:49982
+1607587529606	geckodriver	INFO	Listening on 127.0.0.1:49987
+1607587529636	geckodriver	INFO	Listening on 127.0.0.1:49992
+1607587529666	geckodriver	INFO	Listening on 127.0.0.1:49997
+1607587529696	geckodriver	INFO	Listening on 127.0.0.1:50002
+1607587529727	geckodriver	INFO	Listening on 127.0.0.1:50007
+1607587529757	geckodriver	INFO	Listening on 127.0.0.1:50012
+1607587529787	geckodriver	INFO	Listening on 127.0.0.1:50018
+1607587529816	geckodriver	INFO	Listening on 127.0.0.1:50023
+1607587529846	geckodriver	INFO	Listening on 127.0.0.1:50028
+1607587529876	geckodriver	INFO	Listening on 127.0.0.1:50033
+1607587529905	geckodriver	INFO	Listening on 127.0.0.1:50038
+1607587529916	geckodriver	INFO	Listening on 127.0.0.1:50039
+1607587529946	geckodriver	INFO	Listening on 127.0.0.1:50044
+1607587529977	geckodriver	INFO	Listening on 127.0.0.1:50049
+1607587530011	geckodriver	INFO	Listening on 127.0.0.1:50054
+1607587530042	geckodriver	INFO	Listening on 127.0.0.1:50059
+1607587530073	geckodriver	INFO	Listening on 127.0.0.1:50064
+1607587530102	geckodriver	INFO	Listening on 127.0.0.1:50069
+1607587530131	geckodriver	INFO	Listening on 127.0.0.1:50074
+1607587530160	geckodriver	INFO	Listening on 127.0.0.1:50079
+1607587530190	geckodriver	INFO	Listening on 127.0.0.1:50084
+1607587530219	geckodriver	INFO	Listening on 127.0.0.1:50089
+1607587530250	geckodriver	INFO	Listening on 127.0.0.1:50094
+1607587530279	geckodriver	INFO	Listening on 127.0.0.1:50099
+1607587530310	geckodriver	INFO	Listening on 127.0.0.1:50104
+1607587530340	geckodriver	INFO	Listening on 127.0.0.1:50109
+1607587530370	geckodriver	INFO	Listening on 127.0.0.1:50114
+1607587530399	geckodriver	INFO	Listening on 127.0.0.1:50119
+1607587530428	geckodriver	INFO	Listening on 127.0.0.1:50124
+1607587530457	geckodriver	INFO	Listening on 127.0.0.1:50129
+1607587530489	geckodriver	INFO	Listening on 127.0.0.1:50134
+1607587530519	geckodriver	INFO	Listening on 127.0.0.1:50139
+1607587531550	geckodriver	INFO	Listening on 127.0.0.1:50145
+1607587531580	geckodriver	INFO	Listening on 127.0.0.1:50150
+1607587531611	geckodriver	INFO	Listening on 127.0.0.1:50155
+1607587531642	geckodriver	INFO	Listening on 127.0.0.1:50160
+1607587531672	geckodriver	INFO	Listening on 127.0.0.1:50165
+1607587531701	geckodriver	INFO	Listening on 127.0.0.1:50171
+1607587531732	geckodriver	INFO	Listening on 127.0.0.1:50176
+1607587531762	geckodriver	INFO	Listening on 127.0.0.1:50181
+1607587531791	geckodriver	INFO	Listening on 127.0.0.1:50186
+1607587531821	geckodriver	INFO	Listening on 127.0.0.1:50191
+1607587531851	geckodriver	INFO	Listening on 127.0.0.1:50197
+1607587531881	geckodriver	INFO	Listening on 127.0.0.1:50202
+1607587531912	geckodriver	INFO	Listening on 127.0.0.1:50207
+1607587531942	geckodriver	INFO	Listening on 127.0.0.1:50212
+1607587531972	geckodriver	INFO	Listening on 127.0.0.1:50217
+1607587532002	geckodriver	INFO	Listening on 127.0.0.1:50222
+1607587532033	geckodriver	INFO	Listening on 127.0.0.1:50227
+1607587532063	geckodriver	INFO	Listening on 127.0.0.1:50232
+1607587532091	geckodriver	INFO	Listening on 127.0.0.1:50237
+1607587532120	geckodriver	INFO	Listening on 127.0.0.1:50242
+1607587532150	geckodriver	INFO	Listening on 127.0.0.1:50247
+1607587532181	geckodriver	INFO	Listening on 127.0.0.1:50252
+1607587532210	geckodriver	INFO	Listening on 127.0.0.1:50258
+1607587532239	geckodriver	INFO	Listening on 127.0.0.1:50263
+1607587532269	geckodriver	INFO	Listening on 127.0.0.1:50268
+1607587532299	geckodriver	INFO	Listening on 127.0.0.1:50273
+1607587532329	geckodriver	INFO	Listening on 127.0.0.1:50278
+1607587532359	geckodriver	INFO	Listening on 127.0.0.1:50283
+1607587532388	geckodriver	INFO	Listening on 127.0.0.1:50288
+1607587532418	geckodriver	INFO	Listening on 127.0.0.1:50293
+1607587532448	geckodriver	INFO	Listening on 127.0.0.1:50298
+1607587532477	geckodriver	INFO	Listening on 127.0.0.1:50303
+1607587532507	geckodriver	INFO	Listening on 127.0.0.1:50308
+1607587532537	geckodriver	INFO	Listening on 127.0.0.1:50313
+1607587532567	geckodriver	INFO	Listening on 127.0.0.1:50318
+1607587532598	geckodriver	INFO	Listening on 127.0.0.1:50323
+1607587532629	geckodriver	INFO	Listening on 127.0.0.1:50328
+1607587532660	geckodriver	INFO	Listening on 127.0.0.1:50333
+1607587532689	geckodriver	INFO	Listening on 127.0.0.1:50338
+1607587532722	geckodriver	INFO	Listening on 127.0.0.1:50343
+1607587532752	geckodriver	INFO	Listening on 127.0.0.1:50348
+1607587532782	geckodriver	INFO	Listening on 127.0.0.1:50353
+1607587532810	geckodriver	INFO	Listening on 127.0.0.1:50358
+1607587532840	geckodriver	INFO	Listening on 127.0.0.1:50363
+1607587532869	geckodriver	INFO	Listening on 127.0.0.1:50368
+1607587532898	geckodriver	INFO	Listening on 127.0.0.1:50373
+1607587532928	geckodriver	INFO	Listening on 127.0.0.1:50378
+1607587532957	geckodriver	INFO	Listening on 127.0.0.1:50383
+1607587532987	geckodriver	INFO	Listening on 127.0.0.1:50388
+1607587533019	geckodriver	INFO	Listening on 127.0.0.1:50393
+1607587533049	geckodriver	INFO	Listening on 127.0.0.1:50398
+1607587533079	geckodriver	INFO	Listening on 127.0.0.1:50403
+1607587533109	geckodriver	INFO	Listening on 127.0.0.1:50408
+1607587533626	geckodriver	INFO	Listening on 127.0.0.1:50410
+1607587533663	geckodriver	INFO	Listening on 127.0.0.1:50415
+1607587533834	geckodriver	INFO	Listening on 127.0.0.1:50417
+1607587533870	geckodriver	INFO	Listening on 127.0.0.1:50422
+1607587534061	geckodriver	INFO	Listening on 127.0.0.1:50424
+1607587534141	geckodriver	INFO	Listening on 127.0.0.1:50429
+1607587534191	geckodriver	INFO	Listening on 127.0.0.1:50434
+1607587534221	geckodriver	INFO	Listening on 127.0.0.1:50440
+1607587534250	geckodriver	INFO	Listening on 127.0.0.1:50445
+1607587534279	geckodriver	INFO	Listening on 127.0.0.1:50450
+1607587534309	geckodriver	INFO	Listening on 127.0.0.1:50455
+1607587534340	geckodriver	INFO	Listening on 127.0.0.1:50460
+1607587534370	geckodriver	INFO	Listening on 127.0.0.1:50465
+1607587534401	geckodriver	INFO	Listening on 127.0.0.1:50470
+1607587534432	geckodriver	INFO	Listening on 127.0.0.1:50475
+1607587534462	geckodriver	INFO	Listening on 127.0.0.1:50480
+1607587534492	geckodriver	INFO	Listening on 127.0.0.1:50485
+1607587534522	geckodriver	INFO	Listening on 127.0.0.1:50490
+1607587534534	geckodriver	INFO	Listening on 127.0.0.1:50491
+1607587534565	geckodriver	INFO	Listening on 127.0.0.1:50496
+1607587534596	geckodriver	INFO	Listening on 127.0.0.1:50501
+1607587534627	geckodriver	INFO	Listening on 127.0.0.1:50506
+1607587534656	geckodriver	INFO	Listening on 127.0.0.1:50511
+1607587534686	geckodriver	INFO	Listening on 127.0.0.1:50516
+1607587534718	geckodriver	INFO	Listening on 127.0.0.1:50521
+1607587534748	geckodriver	INFO	Listening on 127.0.0.1:50526
+1607587534780	geckodriver	INFO	Listening on 127.0.0.1:50531
+1607587534809	geckodriver	INFO	Listening on 127.0.0.1:50536
+1607587539997	geckodriver	INFO	Listening on 127.0.0.1:50546
+1607587540978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cbarl\\AppData\\Local\\Temp\\rust_mozprofileWJx3wg"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607587546869	Marionette	INFO	Listening on port 50552
+1607587547241	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1607588377150	geckodriver	INFO	Listening on 127.0.0.1:56605
+1607588377724	geckodriver	INFO	Listening on 127.0.0.1:56608
+1607588378719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cbarl\\AppData\\Local\\Temp\\rust_mozprofilejUXxMy"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1607588380551	geckodriver	INFO	Listening on 127.0.0.1:56626
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607588381488	Marionette	INFO	Listening on port 56615
+1607588381555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cbarl\\AppData\\Local\\Temp\\rust_mozprofiletiEtJ7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1607588382577	geckodriver	INFO	Listening on 127.0.0.1:56654
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607588384822	Marionette	INFO	Listening on port 56638
+1607588394413	Marionette	INFO	Stopped listening on port 56615
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607588395190	Marionette	INFO	Stopped listening on port 56638
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607588395796	Marionette	INFO	Stopped listening on port 50552
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607588403902	geckodriver	INFO	Listening on 127.0.0.1:56747
+1607588404802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cbarl\\AppData\\Local\\Temp\\rust_mozprofileYgfJVW"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607588407448	Marionette	INFO	Listening on port 56754
+1607588407941	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607588408754	geckodriver	INFO	Listening on 127.0.0.1:56784
+1607588409722	geckodriver	INFO	Listening on 127.0.0.1:56803
+1607588409970	geckodriver	INFO	Listening on 127.0.0.1:56808
+1607588410165	geckodriver	INFO	Listening on 127.0.0.1:56813
+1607588410330	geckodriver	INFO	Listening on 127.0.0.1:56818
+1607588410517	geckodriver	INFO	Listening on 127.0.0.1:56824
+1607588411516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cbarl\\AppData\\Local\\Temp\\rust_mozprofileJj44e5"
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1607588413103	geckodriver	INFO	Listening on 127.0.0.1:56844
+1607588413372	Marionette	INFO	Stopped listening on port 56754
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607588414058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cbarl\\AppData\\Local\\Temp\\rust_mozprofilefZ9L62"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607588414411	Marionette	INFO	Listening on port 56835
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: services.settings: main/nimbus-desktop-experiments sync interrupted by shutdown
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1607588420054	Marionette	INFO	Stopped listening on port 56835
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: "Could not load engine google@search.mozilla.org: Error: Data is not ready."
+console.error: "Could not load engine amazondotcom@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine bing@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/EveryWindow.jsm, line 37: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+1607588587052	geckodriver	INFO	Listening on 127.0.0.1:57011
+1607588588046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cbarl\\AppData\\Local\\Temp\\rust_mozprofilebxgDsq"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607588590768	Marionette	INFO	Listening on port 57021
+1607588591188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1607588620224	geckodriver	INFO	Listening on 127.0.0.1:57172
+1607588621237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cbarl\\AppData\\Local\\Temp\\rust_mozprofileBW6eiw"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607588623816	Marionette	INFO	Listening on port 57179
+1607588623880	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1607588647132	geckodriver	INFO	Listening on 127.0.0.1:57297
+1607588648078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cbarl\\AppData\\Local\\Temp\\rust_mozprofiledJ1T0T"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607588651065	Marionette	INFO	Listening on port 57305
+1607588651233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1607588674436	geckodriver	INFO	Listening on 127.0.0.1:57441
+1607588675405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cbarl\\AppData\\Local\\Temp\\rust_mozprofileZKPhhT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607588678687	Marionette	INFO	Listening on port 57448
+1607588679049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1607588710544	geckodriver	INFO	Listening on 127.0.0.1:57594
+1607588711558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cbarl\\AppData\\Local\\Temp\\rust_mozprofileMzSO9r"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607588714881	Marionette	INFO	Listening on port 57602
+1607588715200	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8804, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607588732036	Marionette	INFO	Stopped listening on port 57305
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Marionette threw an error: TypeError: this.curBrowser.messageManager is null
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:361:5
+send/<@chrome://marionette/content/proxy.js:190:12
+send@chrome://marionette/content/proxy.js:124:12
+get/<@chrome://marionette/content/proxy.js:37:29
+GeckoDriver.prototype.findElements@chrome://marionette/content/driver.js:2135:28
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607588732228	geckodriver	INFO	Listening on 127.0.0.1:57709
+1607588732737	Marionette	INFO	Stopped listening on port 57448
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607588732894	Marionette	INFO	Stopped listening on port 57602
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607588733180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cbarl\\AppData\\Local\\Temp\\rust_mozprofileYGnmF9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1607588735494	geckodriver	INFO	Listening on 127.0.0.1:57728
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607588735935	Marionette	INFO	Listening on port 57716
+1607588736319	geckodriver	INFO	Listening on 127.0.0.1:57738
+1607588736544	geckodriver	INFO	Listening on 127.0.0.1:57744
+1607593110219	Marionette	INFO	Stopped listening on port 57179
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607593110857	Marionette	INFO	Stopped listening on port 57716
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607593112137	Marionette	INFO	Stopped listening on port 57021
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607593158777	geckodriver	INFO	Listening on 127.0.0.1:56635
+1607593159781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cbarl\\AppData\\Local\\Temp\\rust_mozprofiledP9KMN"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607593162941	Marionette	INFO	Listening on port 56644
+1607593163430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1607593486554	geckodriver	INFO	Listening on 127.0.0.1:55437
+Marionette threw an error: TypeError: driver.dialogObserver is null
+waitForNavigationCompleted/<@chrome://marionette/content/navigate.js:364:5
+
+1607593487570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cbarl\\AppData\\Local\\Temp\\rust_mozprofilebF9oRT"
+1607593487708	Marionette	INFO	Stopped listening on port 56644
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607593490760	Marionette	INFO	Listening on port 55447
+1607593491245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1607593588800	Marionette	INFO	Stopped listening on port 55447
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607593704428	geckodriver	INFO	Listening on 127.0.0.1:60171
+1607593705438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cbarl\\AppData\\Local\\Temp\\rust_mozprofile1ENalI"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607593707968	Marionette	INFO	Listening on port 60180
+1607593708079	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1607594268643	geckodriver	INFO	Listening on 127.0.0.1:50910
+1607594281951	Marionette	INFO	Stopped listening on port 60180
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607594578029	geckodriver	INFO	Listening on 127.0.0.1:51194
+1607594579023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cbarl\\AppData\\Local\\Temp\\rust_mozprofileWjX2Zm"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+[Parent 9828, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607594582638	Marionette	FATAL	Remote protocol server failed to start: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIServerSocket.asyncListen]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: chrome://marionette/content/server.js :: set acceptConnections :: line 91"  data: no] Stack trace: set acceptConnections()@server.js:91
+start()@server.js:116
+init/<()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/marionette.js:510
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine bing@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: rs-experiment-loader-timer
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607597579142	geckodriver	INFO	Listening on 127.0.0.1:57239
+1607597580142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cbarl\\AppData\\Local\\Temp\\rust_mozprofileA1bxwW"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607597582069	Marionette	INFO	Listening on port 57250
+1607597582187	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Exiting due to channel error.
+Exiting due to channel error.
+1607977827158	geckodriver	INFO	Listening on 127.0.0.1:58600
+1607977827347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\cbarl\\AppData\\Local\\Temp\\rust_mozprofileDTLMiz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607977836650	Marionette	INFO	Listening on port 58610
+1607977837008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://pt.octaxcol.com/Scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.ocpafl.org/Searches/ParcelSearch.aspx/PID/272008855911030, line 67: TypeError: $(...).sliderPro is not a function
+JavaScript error: https://www.ocpafl.org/Searches/ParcelSearch.aspx/PID/272008855911051, line 3558: TypeError: OCPAFL.Translate is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE

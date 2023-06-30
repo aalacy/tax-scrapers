@@ -1,0 +1,127 @@
+{
+    "folio": "0000007164",
+    "url": "https://www.sc-pa.com/propertysearch/parcel/details/0000007164",
+    "owner_info": {
+        "name": "PINEWOOD VILLAGE OWNERS' ASSOCIATION, INC",
+        "address": "Situs Address:",
+        "situs_address": "0 WOODGATE LN SARASOTA, FL, 34231"
+    },
+    "parcel_summary": {
+        "Land Area:": "80,093 Sq.Ft.",
+        "Municipality:": "Sarasota County",
+        "Subdivision:": "7164 - PINEWOOD VILLAGE  I",
+        "Property Use:": "0900 - Residential Common Areas/Elements",
+        "Status": "INFO",
+        "Sec/Twp/Rge:": "05-37S-18E",
+        "Census:": "121150018031",
+        "Zoning:": "RMF3 - RESIDENTIAL, MULTI-FAMILY",
+        "Total Living Units:": "0",
+        "ParcelDescription:": "PINEWOOD VILLAGE I"
+    },
+    "buildings": [],
+    "extra_features": [],
+    "values": [
+        {
+            "Year": "2020",
+            "Land": "$0",
+            "Building": "$0",
+            "Extra Feature": "$0",
+            "Just": "$0",
+            "Assessed": "$0",
+            "Exemptions": "$0",
+            "Taxable": "$0",
+            "Cap ": "$0"
+        },
+        {
+            "Year": "2019",
+            "Land": "$0",
+            "Building": "$0",
+            "Extra Feature": "$0",
+            "Just": "$0",
+            "Assessed": "$0",
+            "Exemptions": "$0",
+            "Taxable": "$0",
+            "Cap ": "$0"
+        },
+        {
+            "Year": "2018",
+            "Land": "$0",
+            "Building": "$0",
+            "Extra Feature": "$0",
+            "Just": "$0",
+            "Assessed": "$0",
+            "Exemptions": "$0",
+            "Taxable": "$0",
+            "Cap ": "$0"
+        },
+        {
+            "Year": "2017",
+            "Land": "$0",
+            "Building": "$0",
+            "Extra Feature": "$0",
+            "Just": "$0",
+            "Assessed": "$0",
+            "Exemptions": "$0",
+            "Taxable": "$0",
+            "Cap ": "$0"
+        },
+        {
+            "Year": "2016",
+            "Land": "$0",
+            "Building": "$0",
+            "Extra Feature": "$0",
+            "Just": "$0",
+            "Assessed": "$0",
+            "Exemptions": "$0",
+            "Taxable": "$0",
+            "Cap ": "$0"
+        },
+        {
+            "Year": "2015",
+            "Land": "$0",
+            "Building": "$0",
+            "Extra Feature": "$0",
+            "Just": "$0",
+            "Assessed": "$0",
+            "Exemptions": "$0",
+            "Taxable": "$0",
+            "Cap ": "$0"
+        },
+        {
+            "Year": "x2014",
+            "Land": "N/A",
+            "Building": "N/A",
+            "Extra Feature": "N/A",
+            "Just": "N/A",
+            "Assessed": "N/A",
+            "Exemptions": "N/A",
+            "Taxable": "N/A",
+            "Cap ": "N/A"
+        },
+        {
+            "Year": "x2013",
+            "Land": "N/A",
+            "Building": "N/A",
+            "Extra Feature": "N/A",
+            "Just": "N/A",
+            "Assessed": "N/A",
+            "Exemptions": "N/A",
+            "Taxable": "N/A",
+            "Cap ": "N/A"
+        }
+    ],
+    "sales_and_transfer": [],
+    "associated_tangible_accounts": [],
+    "property_record_information": [
+        {
+            "FIRM Panel": "0142F",
+            "Floodway": "OUT",
+            "SFHA": "OUT",
+            "Flood Zone **": "X",
+            "Community": "125144",
+            "Base Flood Elevation (ft)": "",
+            "CFHA *": "OUT"
+        }
+    ],
+    "tax_link": ""
+}

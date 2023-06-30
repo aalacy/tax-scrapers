@@ -1,0 +1,253 @@
+{
+    "pin": "153323ZZZ000000000200A",
+    "url": "https://gis.hcpafl.org/PropertySearch/#/parcel/basic/153323ZZZ000000000200A",
+    "folio": "000001-0000",
+    "owner_info": {
+        "name": "UNITED STATES; ",
+        "mailing_address": "EGMONT KEY STATE PARK 4905 34TH ST S PMB 5000 SAINT PETERSBURG  FL 33711-4511"
+    },
+    "value_summary": [
+        {
+            "assessedVal": 4628604,
+            "exemptions": 4628604,
+            "marketVal": 4628604,
+            "sequence": 4,
+            "taxDist": "Other Districts",
+            "taxableVal": 0
+        },
+        {
+            "assessedVal": 4628604,
+            "exemptions": 4628604,
+            "marketVal": 4628604,
+            "sequence": 3,
+            "taxDist": "Municipal",
+            "taxableVal": 0
+        },
+        {
+            "assessedVal": 4628604,
+            "exemptions": 4628604,
+            "marketVal": 4628604,
+            "sequence": 2,
+            "taxDist": "Public Schools",
+            "taxableVal": 0
+        },
+        {
+            "assessedVal": 4628604,
+            "exemptions": 4628604,
+            "marketVal": 4628604,
+            "sequence": 1,
+            "taxDist": "County",
+            "taxableVal": 0
+        }
+    ],
+    "sale_history": null,
+    "building_info": [],
+    "extra_feature": [
+        {
+            "building": 0,
+            "code": "0120  ",
+            "description": "DECK WOOD",
+            "featureValue": 1900,
+            "length": "20",
+            "sequence": 1,
+            "units": "400",
+            "width": "20",
+            "year": 1994
+        },
+        {
+            "building": 0,
+            "code": "0651  ",
+            "description": "SHED NOT PERMANENTLY AFFIXED",
+            "featureValue": 0,
+            "length": "0",
+            "sequence": 2,
+            "units": "1",
+            "width": "0",
+            "year": 1994
+        },
+        {
+            "building": 0,
+            "code": "0640  ",
+            "description": "UTILITY CB",
+            "featureValue": 72480,
+            "length": "0",
+            "sequence": 3,
+            "units": "3000",
+            "width": "0",
+            "year": null
+        }
+    ],
+    "land_line": [
+        {
+            "acres": 0.0,
+            "depth": 0.0,
+            "frontage": 0.0,
+            "item": 1,
+            "landType": {
+                "code": "AC",
+                "description": "ACREAGE"
+            },
+            "landUse": {
+                "code": "995D",
+                "description": "Acreage Class 3"
+            },
+            "units": 388.42,
+            "value": 4554224,
+            "zone": "AR        "
+        }
+    ],
+    "legal": [
+        "23 24 25 AND 26-33-15 THAT ISLAND KNOWN AS EGMONT KEY DESC AS GOVT LOTS 1 2 & 3 IN SEC 23-33-15 GOVT LOT 1 IN SEC 24-33-15 GOV LOT 1 IN SEC 25-33-15 & GOV LOTS 1 & 2 IN SEC 26-33-15 LESS THAT TRACT DESC AS LYING S 2 DEG 34 MIN 04 SEC W 5226 FT FROM CTS OF EGMONT LIGHTHOUSE SD CENTER BEING LAT 27  DEG 36 MIN 01.980 SEC ALONG 82 DEG 45 MIN 39.0003 SEC AND RUN N 600 FT E 400 FT MOL TO TAMPA BAY SLY APPROX 600 FT ALONG SHORE LINE AND W 400 FT MOL TO POB"
+    ],
+    "map": "https://gis.hcpafl.org/GisSearch/?pin=153323ZZZ000000000200A",
+    "trim": "http://dmz.hcpafl.org/trim_re.cfm?folio=0000010000",
+    "tax_collector": {
+        "parcel_details": {
+            "owner": "UNITED STATES",
+            "situs": "EGMONT KEY ST PETERSBURG 33715",
+            "account": "A0000010000",
+            "millage_code": "10000",
+            "millage_rate": "TA",
+            "assessed_value": "$4,628,604",
+            "school_assessed_value": "$4,628,604",
+            "escrow_company": "19.8490",
+            "2019_annual_bill": [
+                {
+                    "ad_valorem": "$0.00",
+                    "non-ad_valorem": "$0.00",
+                    "total_discountable": "$0.00",
+                    "no_discount_nava": "$0.00",
+                    "total_tax": "$0.00"
+                }
+            ],
+            "legal_description": "23 24 25 AND 26-33-15THAT ISLAND KNOWN AS EGMONT KEY DESC AS GOVT LOTS1 2 & 3 IN SEC 23-33-15 GOVT LOT 1 IN SEC 24-33-15GOV LOT 1 IN SEC 25-33-15 & GOV LOTS 1 & 2 IN SEC26-33-15 LESS THAT TRACT DESC AS LYING S 2 DEG 34MIN 04 SEC W 5226 FT FROM CTS OF EGMONT LIGHTHOUSESD CENTER BEING LAT 27 DEG 36 MIN 01.980 SECALONG 82 DEG 45 MIN 39.0003 SEC AND RUN N 600 FTE 400 FT MOL TO TAMPA BAY SLY APPROX 600 FT ALONGSHORE LINE AND W 400 FT MOL TO POB",
+            "location": {
+                "book_page_item": "--",
+                "geo_number": "a-23-33-15-zzz-000000-00020.0",
+                "range": "15",
+                "township": "33",
+                "section": "23",
+                "neighborhood": "ruskin sw of shell pt & hwy 41",
+                "block": "000000",
+                "lot": "00020.0",
+                "use_code": "8800",
+                "total_acres": "313.010"
+            }
+        },
+        "ad_valorem_tax": {
+            "table": {
+                "county_operating": {
+                    "taxing_authority": "COUNTY OPERATING ",
+                    "millage": "5.7309 ",
+                    "assessed": "4,628,604 ",
+                    "exemption": "4,628,604 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "environmental_land": {
+                    "taxing_authority": "ENVIRONMENTAL LAND ",
+                    "millage": "0.0604 ",
+                    "assessed": "4,628,604 ",
+                    "exemption": "4,628,604 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "library-service": {
+                    "taxing_authority": "LIBRARY-SERVICE ",
+                    "millage": "0.5583 ",
+                    "assessed": "4,628,604  ",
+                    "exemption": "4,628,604 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "school_-_local": {
+                    "taxing_authority": "SCHOOL - LOCAL ",
+                    "millage": "2.2480 ",
+                    "assessed": "4,628,604 ",
+                    "exemption": "4,628,604 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "school_-_state": {
+                    "taxing_authority": "SCHOOL - STATE ",
+                    "millage": "3.7190 ",
+                    "assessed": "4,628,604 ",
+                    "exemption": "4,628,604 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "port_authority": {
+                    "taxing_authority": "PORT AUTHORITY ",
+                    "millage": "0.0990 ",
+                    "assessed": "4,628,604 ",
+                    "exemption": "4,628,604 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "hills_co_transit_authority": {
+                    "taxing_authority": "HILLS CO TRANSIT AUTHORITY  ",
+                    "millage": "0.5000 ",
+                    "assessed": "4,628,604 ",
+                    "exemption": "4,628,604 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "childrens_board": {
+                    "taxing_authority": "CHILDRENS BOARD ",
+                    "millage": "0.4589 ",
+                    "assessed": "4,628,604 ",
+                    "exemption": "4,628,604 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "water_management": {
+                    "taxing_authority": "WATER MANAGEMENT ",
+                    "millage": "0.2669 ",
+                    "assessed": "4,628,604 ",
+                    "exemption": "4,628,604 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "tampa_city": {
+                    "taxing_authority": "TAMPA CITY ",
+                    "millage": "6.2076 ",
+                    "assessed": "4,628,604 ",
+                    "exemption": "4,628,604 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                }
+            },
+            "total": {
+                "millage": "19.8490 ",
+                "tax": "$0.00 "
+            }
+        },
+        "non_ad_valorem_assessments": {
+            "table": [],
+            "total": {
+                "t_rate": "",
+                "t_amount": ""
+            }
+        },
+        "latest_annual_bill": {
+            "total": {
+                "bill": "2020 Annual bill ",
+                "alternate_key": "10000 ",
+                "escrow_code": "\u2014 ",
+                "millage_code": "TA ",
+                "amount_due": " $0.00 "
+            },
+            "pdfurls": [
+                "https://hillsborough.county-taxes.com/public/real_estate/parcels/A0000010000/bills/7231288/print"
+            ],
+            "pdfs": [
+                "A0000010000_bills_7231288.pdf"
+            ],
+            "notices": ""
+        },
+        "mailing_address": {
+            "hillsborough_county_tax_collector": "P.O. Box 30012 Tampa, Florida 33630-3012"
+        },
+        "combined_tax_collector": "$0.00"
+    }
+}

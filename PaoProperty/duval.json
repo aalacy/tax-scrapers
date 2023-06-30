@@ -1,0 +1,342 @@
+{
+   "folio":"0000240000R",
+   "url":"https://paopropertysearch.coj.net/Basic/Detail.aspx?RE=0000240000R",
+   "owner_info":{
+      "name":"MCGLASHAN BELINDA M",
+      "address":"16665 HAP WAY BALDWIN, FL 32234-1163",
+      "primary_address":"16665 HAP WAY  Jacksonville FL 32234",
+      "book_page":"14741-00970",
+      "title":"3414"
+   },
+   "prop_info":{
+      "re_no":"000024-0000",
+      "tax_district":"GS",
+      "property_use":"0100 Single Family",
+      "no_of_buildings":"1",
+      "legal_desc":"For full legal description see",
+      "subdivision":"00000 SECTION LAND",
+      "total_area":"725951"
+   },
+   "value_summary":{
+      "2020_certified":{
+         "value_method":"CAMA",
+         "total_building_value":"$54,325.00",
+         "extra_feature_value":"$6,602.00",
+         "land_value_market":"$221,625.00",
+         "land_value_agric.":"$0.00",
+         "just_market_value":"$282,552.00",
+         "assessed_value":"$282,552.00",
+         "cap_diffportability_amt":"$0.00",
+         "exemptions":"$50,000.00",
+         "taxable_value":"$232,552.00"
+      },
+      "2021_in_progress":{
+         "value_method":"CAMA",
+         "total_building_value":"$53,615.00",
+         "extra_feature_value":"$6,602.00",
+         "land_value_market":"$221,625.00",
+         "land_value_agric.":"$0.00",
+         "just_market_value":"$281,842.00",
+         "assessed_value":"$281,842.00",
+         "cap_diffportability_amt":"$0.00",
+         "exemptions":"See below",
+         "taxable_value":"See below"
+      }
+   },
+   "taxable_values_and_exemptions":{
+      "countymunicipal_taxable_value":{
+         "Assessed_Value":"$281,842.00",
+         "Homestead_(HX)":"- $25,000.00",
+         "Homestead_Banding_196.031(1)(b)_(HB)":"- $25,000.00",
+         "Taxable_Value":"$231,842.00"
+      },
+      "sjrwmdfind_taxable_value":{
+         "Assessed_Value":"$281,842.00",
+         "Homestead_(HX)":"- $25,000.00",
+         "Homestead_Banding_196.031(1)(b)_(HB)":"- $25,000.00",
+         "Taxable_Value":"$231,842.00"
+      },
+      "school_taxable_value":{
+         "Assessed_Value":"$281,842.00",
+         "Homestead_(HX)":"- $25,000.00",
+         "Taxable_Value":"$256,842.00"
+      }
+   },
+   "sales_history":[
+      {
+         "book_page":"http://oncore.duvalclerk.com/showdetails.aspx?Book=14741&Page=970&BookType=OR",
+         "sale_date":"12/23/2008",
+         "sale_price":"$100.00",
+         "deed_instrument_type_code":"WD - Warranty Deed",
+         "qualified_unqualified":"Unqualified",
+         "vacant_improved":"Improved"
+      },
+      {
+         "book_page":"http://oncore.duvalclerk.com/showdetails.aspx?Book=1738&Page=121&BookType=OR",
+         "sale_date":"12/30/1899",
+         "sale_price":"$100.00",
+         "deed_instrument_type_code":"\u00a0",
+         "qualified_unqualified":"Unqualified",
+         "vacant_improved":"Improved"
+      }
+   ],
+   "extra_features":[
+      {
+         "ln":"1",
+         "feature_code":"FPPR7",
+         "feature_description":"Fireplace Prefab",
+         "bldg.":"1",
+         "length":"0",
+         "width":"0",
+         "total_units":"1.00",
+         "value":"$417.00"
+      },
+      {
+         "ln":"2",
+         "feature_code":"GBDR2",
+         "feature_description":"GP Barn Class D",
+         "bldg.":"1",
+         "length":"20",
+         "width":"40",
+         "total_units":"800.00",
+         "value":"$2,988.00"
+      },
+      {
+         "ln":"3",
+         "feature_code":"ESMR2",
+         "feature_description":"Equip Shed Class C",
+         "bldg.":"1",
+         "length":"30",
+         "width":"40",
+         "total_units":"1,200.00",
+         "value":"$3,197.00"
+      }
+   ],
+   "land_and_legal":{
+      "land":[
+         {
+            "ln":"1",
+            "code":"0104",
+            "use_description":"AGR IV - 1 UNIT PER 2.5 ACRES",
+            "zoning_assessment":"AGR",
+            "front":"0.00",
+            "depth":"0.00",
+            "category":"Common",
+            "land_units":"17.73",
+            "land_type":"Acreage",
+            "land_value":"$221,625.00"
+         }
+      ],
+      "legal":[
+         {
+            "ln":"1",
+            "legal_description":"14-2S-23E  17.73"
+         },
+         {
+            "ln":"2",
+            "legal_description":"PT SE1/4 OF SE1/4 RECD"
+         },
+         {
+            "ln":"3",
+            "legal_description":"O/R 14741-970"
+         }
+      ]
+   },
+   "buildings_info":[
+      {
+         "info":{
+            "address":"16665 HAP WAY Unit  Jacksonville FL  32234",
+            "building_type":"0101 - SFR 1 STORY",
+            "year_built":"1939",
+            "building_value":"$53,615.00",
+            "type":[
+               {
+                  "type":"Base Area",
+                  "gross_area":"1698",
+                  "heated_area":"1698",
+                  "effective_area":"1698"
+               },
+               {
+                  "type":"Finished Open Porch",
+                  "gross_area":"77",
+                  "heated_area":"0",
+                  "effective_area":"23"
+               },
+               {
+                  "type":"Unfinished Garage",
+                  "gross_area":"1240",
+                  "heated_area":"0",
+                  "effective_area":"558"
+               },
+               {
+                  "type":"Total",
+                  "gross_area":"3015",
+                  "heated_area":"1698",
+                  "effective_area":"2279"
+               }
+            ]
+         },
+         "elements":[
+            {
+               "element":"Exterior Wall",
+               "code":"26",
+               "detail":"26 Alum/Vinyl"
+            },
+            {
+               "element":"Roof Struct",
+               "code":"3",
+               "detail":"3 Gable or Hip"
+            },
+            {
+               "element":"Roofing Cover",
+               "code":"12",
+               "detail":"12 Modular Metal"
+            },
+            {
+               "element":"Interior Wall",
+               "code":"3",
+               "detail":"3 Plastered"
+            },
+            {
+               "element":"Int Flooring",
+               "code":"9",
+               "detail":"9 Pine/Soft Wood"
+            },
+            {
+               "element":"Heating Fuel",
+               "code":"3",
+               "detail":"3 Gas"
+            },
+            {
+               "element":"Heating Type",
+               "code":"2",
+               "detail":"2 Convection"
+            },
+            {
+               "element":"Air Cond",
+               "code":"2",
+               "detail":"2 Wall Unit"
+            },
+            {
+               "element":"",
+               "code":"",
+               "detail":""
+            },
+            {
+               "element":"Stories",
+               "code":"1.000",
+               "detail":""
+            },
+            {
+               "element":"Bedrooms",
+               "code":"2.000",
+               "detail":""
+            },
+            {
+               "element":"Baths",
+               "code":"2.000",
+               "detail":""
+            },
+            {
+               "element":"Rooms / Units",
+               "code":"1.000",
+               "detail":""
+            }
+         ],
+         "sketch":"https://paopropertysearch.coj.net/Traverse/Traverse.dll?width=400&height=400&traverse=BAS:73,64:=W42%20N29%20E2%20N35%20E20%20S46%20E20%20S18%20$\r\nFOP:31,64:=S11%20E7%20N11%20W7%20$\r\nUGR:31,75:=W31%20N40%20E31%20S40%20$\r\n."
+      }
+   ],
+   "trim_notice":[
+      {
+         "taxing_district":"Gen Govt Ex B&B",
+         "assessed_value":"$282,552.00",
+         "exemptions":"$50,000.00",
+         "taxable_value":"$232,552.00",
+         "last_year":"$2,641.89",
+         "proposed":"$2,660.84",
+         "rolled-back":"$2,549.21"
+      },
+      {
+         "taxing_district":"Public Schools:        By State Law",
+         "assessed_value":"$282,552.00",
+         "exemptions":"$25,000.00",
+         "taxable_value":"$257,552.00",
+         "last_year":"$998.51",
+         "proposed":"$941.87",
+         "rolled-back":"$969.04"
+      },
+      {
+         "taxing_district":"By Local Board",
+         "assessed_value":"$282,552.00",
+         "exemptions":"$25,000.00",
+         "taxable_value":"$257,552.00",
+         "last_year":"$575.25",
+         "proposed":"$578.98",
+         "rolled-back":"$558.27"
+      },
+      {
+         "taxing_district":"FL Inland Navigation Dist.",
+         "assessed_value":"$282,552.00",
+         "exemptions":"$50,000.00",
+         "taxable_value":"$232,552.00",
+         "last_year":"$7.39",
+         "proposed":"$7.44",
+         "rolled-back":"$7.12"
+      },
+      {
+         "taxing_district":"Water Mgmt Dist.  SJRWMD",
+         "assessed_value":"$282,552.00",
+         "exemptions":"$50,000.00",
+         "taxable_value":"$232,552.00",
+         "last_year":"$55.74",
+         "proposed":"$53.18",
+         "rolled-back":"$53.18"
+      },
+      {
+         "taxing_district":"Gen Gov Voted",
+         "assessed_value":"$282,552.00",
+         "exemptions":"$50,000.00",
+         "taxable_value":"$232,552.00",
+         "last_year":"$0.00",
+         "proposed":"$0.00",
+         "rolled-back":"$0.00"
+      },
+      {
+         "taxing_district":"School Board Voted",
+         "assessed_value":"$282,552.00",
+         "exemptions":"$25,000.00",
+         "taxable_value":"$257,552.00",
+         "last_year":"$0.00",
+         "proposed":"$0.00",
+         "rolled-back":"$0.00"
+      },
+      {
+         "taxing_district":"\u00a0",
+         "assessed_value":"\u00a0",
+         "exemptions":"\u00a0",
+         "taxable_value":"Totals",
+         "last_year":"$4,278.78",
+         "proposed":"$4,242.31",
+         "rolled-back":"$4,136.82"
+      }
+   ],
+   "extended_trim":[
+      {
+         "description":"Last Year",
+         "just_value":"$282,606.00",
+         "assessed_value":"$280,896.00",
+         "exemptions":"$50,000.00",
+         "taxable_value":"$230,896.00"
+      },
+      {
+         "description":"Current Year",
+         "just_value":"$282,552.00",
+         "assessed_value":"$282,552.00",
+         "exemptions":"$50,000.00",
+         "taxable_value":"$232,552.00"
+      }
+   ],
+   "property_record_card_pdf":[
+      
+   ]
+}

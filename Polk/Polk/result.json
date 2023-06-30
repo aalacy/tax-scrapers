@@ -1,0 +1,381 @@
+{
+    "folio": "222602000000032090",
+    "url": "https://www.polkpa.org/CamaDisplay.aspx?OutputMode=Display&SearchType=RealEstate&ParcelID=222602000000032090",
+    "owner_info": {
+        "names": [
+            "LSREM LLC"
+        ],
+        "addresses": {
+            "Address 1": "5529 US HIGHWAY 98 N",
+            "Address 3": "LAKELAND FL 33809-3103"
+        },
+        "site_addresses": {
+            "Address 1": "    ",
+            "City": "KATHLEEN",
+            "State": "FL",
+            "Zip Code": "33849"
+        }
+    },
+    "legal_description": "E1/2 OF E1/2 OF S1/2 OF NW1/4 OF SE1/4 OF NW1/4BEING LOT 81 OF RANCHO BENITO",
+    "parcel_summary": {
+        "Neighborhood": "310010.00",
+        "Subdivision": "NOT IN SUBDIVISION",
+        "Property (DOR) Use Code": "Inaccessible tracts",
+        "Acreage": "1.26",
+        "Taxing District": "UNINCORP/SWFWMD/RANCHO BONITO",
+        "Community Redevelopment Area": "NOT IN CRA"
+    },
+    "sales_history": [
+        {
+            "OR Book/Page": "11183/01816",
+            "Date": "03/2020",
+            "Type Inst": "T",
+            "Vacant/ Improved": "V",
+            "Grantee": "LSREM LLC",
+            "Sales Price": "$1,600"
+        },
+        {
+            "OR Book/Page": "2982/1568",
+            "Date": "05/1991",
+            "Type Inst": "W",
+            "Vacant/ Improved": "V",
+            "Grantee": "VILLALON JOSE A",
+            "Sales Price": "$8,400"
+        },
+        {
+            "OR Book/Page": "2982/1567",
+            "Date": "05/1991",
+            "Type Inst": "Q",
+            "Vacant/ Improved": "V",
+            "Grantee": "",
+            "Sales Price": "$100"
+        },
+        {
+            "OR Book/Page": "2703/0134",
+            "Date": "08/1988",
+            "Type Inst": "W",
+            "Vacant/ Improved": "V",
+            "Grantee": "",
+            "Sales Price": "$100"
+        }
+    ],
+    "exemptions": [],
+    "buildings": [],
+    "extra_features": [],
+    "land_lines": [
+        {
+            "LN": "1",
+            "Land Dscr": "* Low or inaccessible",
+            "Ag/GreenBelt": "N",
+            "Land Unit Type": "A",
+            "Front": "0",
+            "Depth": "0",
+            "Units": "1.26"
+        }
+    ],
+    "value_summary_2020": [
+        {
+            "Desc": "Land Value",
+            "Value": "$628"
+        },
+        {
+            "Desc": "Building Value",
+            "Value": "$0"
+        },
+        {
+            "Desc": "Misc. Items Value",
+            "Value": "$0"
+        },
+        {
+            "Desc": "Land Classified Value",
+            "Value": "$0"
+        },
+        {
+            "Desc": "Just Market Value",
+            "Value": "$628"
+        },
+        {
+            "Desc": "*Cap Differential and Portability",
+            "Value": "$0"
+        },
+        {
+            "Desc": "Agriculture Classification",
+            "Value": "$0"
+        },
+        {
+            "Desc": "Assessed Value",
+            "Value": "$628"
+        },
+        {
+            "Desc": "Exempt Value (County)",
+            "Value": "$0"
+        },
+        {
+            "Desc": "Taxable Value (County)",
+            "Value": "$628"
+        }
+    ],
+    "value_by_district": [
+        {
+            "District Description": "BOARD OF COUNTY COMMISSIONERS",
+            "FinalTax Rate": "6.899000",
+            "Assessed Value": "$628",
+            "FinalAssessed Taxes": "$4.33",
+            "Exemption": "$0",
+            "FinalTax Savings": "$0.00",
+            "Taxable Value": "$628",
+            "FinalTaxes": "$4.33"
+        },
+        {
+            "District Description": "POLK COUNTY PARKS MSTU",
+            "FinalTax Rate": "0.561900",
+            "Assessed Value": "$628",
+            "FinalAssessed Taxes": "$0.35",
+            "Exemption": "$0",
+            "FinalTax Savings": "$0.00",
+            "Taxable Value": "$628",
+            "FinalTaxes": "$0.35"
+        },
+        {
+            "District Description": "POLK COUNTY LIBRARY MSTU",
+            "FinalTax Rate": "0.210900",
+            "Assessed Value": "$628",
+            "FinalAssessed Taxes": "$0.13",
+            "Exemption": "$0",
+            "FinalTax Savings": "$0.00",
+            "Taxable Value": "$628",
+            "FinalTaxes": "$0.13"
+        },
+        {
+            "District Description": "POLK COUNTY STORMWATER MSTU",
+            "FinalTax Rate": "0.100000",
+            "Assessed Value": "$628",
+            "FinalAssessed Taxes": "$0.06",
+            "Exemption": "$0",
+            "FinalTax Savings": "$0.00",
+            "Taxable Value": "$628",
+            "FinalTaxes": "$0.06"
+        },
+        {
+            "District Description": "POLK COUNTY RANCHO BONITO MSTU",
+            "FinalTax Rate": "9.127200",
+            "Assessed Value": "$628",
+            "FinalAssessed Taxes": "$5.73",
+            "Exemption": "$0",
+            "FinalTax Savings": "$0.00",
+            "Taxable Value": "$628",
+            "FinalTaxes": "$5.73"
+        },
+        {
+            "District Description": "POLK COUNTY SCHOOL BOARD - STATE",
+            "FinalTax Rate": "3.687000",
+            "Assessed Value": "$628",
+            "FinalAssessed Taxes": "$2.32",
+            "Exemption": "$0",
+            "FinalTax Savings": "$0.00",
+            "Taxable Value": "$628",
+            "FinalTaxes": "$2.32"
+        },
+        {
+            "District Description": "POLK COUNTY SCHOOL BOARD - LOCAL",
+            "FinalTax Rate": "2.248000",
+            "Assessed Value": "$628",
+            "FinalAssessed Taxes": "$1.41",
+            "Exemption": "$0",
+            "FinalTax Savings": "$0.00",
+            "Taxable Value": "$628",
+            "FinalTaxes": "$1.41"
+        },
+        {
+            "District Description": "SOUTHWEST FLA WATER MGMT DIST",
+            "FinalTax Rate": "0.266900",
+            "Assessed Value": "$628",
+            "FinalAssessed Taxes": "$0.17",
+            "Exemption": "$0",
+            "FinalTax Savings": "$0.00",
+            "Taxable Value": "$628",
+            "FinalTaxes": "$0.17"
+        }
+    ],
+    "ad_non_valorem": [],
+    "taxes": [
+        {
+            "Desc": "Taxing District",
+            "Last Year": "UNINCORP/SWFWMD/RANCHO BONITO (Code:\u00a093000)",
+            "2020 Final": "UNINCORP/SWFWMD/RANCHO BONITO (Code:\u00a093000)"
+        },
+        {
+            "Desc": "Millage Rate",
+            "Last Year": "23.5226",
+            "2020 Final": "23.1009"
+        },
+        {
+            "Desc": "Ad Valorem Assessments",
+            "Last Year": "$14.76",
+            "2020 Final": "$14.50"
+        },
+        {
+            "Desc": "Non-Ad Valorem Assessments",
+            "Last Year": "$0.00",
+            "2020 Final": "$0.00"
+        }
+    ],
+    "parse_prior_year_final_values": {
+        "2019": {
+            "Land Value": "$628.00",
+            "Building Value": "$0.00",
+            "Misc. Items Value": "$0.00",
+            "Land Classified Value": "$0.00",
+            "Just Value (Market)": "$628.00",
+            "SOH Deferred Val": "$0.00",
+            "Agriculture Classification": "$0.00",
+            "Assessed Value": "$628.00",
+            "Exempt Value (County)": "$0.00",
+            "Taxable Value (County)": "$628.00"
+        },
+        "2018": {
+            "Land Value": "$628.00",
+            "Building Value": "$0.00",
+            "Misc. Items Value": "$0.00",
+            "Land Classified Value": "$0.00",
+            "Just Value (Market)": "$628.00",
+            "SOH Deferred Val": "$0.00",
+            "Agriculture Classification": "$0.00",
+            "Assessed Value": "$628.00",
+            "Exempt Value (County)": "$0.00",
+            "Taxable Value (County)": "$628.00"
+        },
+        "2017": {
+            "Land Value": "$628.00",
+            "Building Value": "$0.00",
+            "Misc. Items Value": "$0.00",
+            "Land Classified Value": "$0.00",
+            "Just Value (Market)": "$628.00",
+            "SOH Deferred Val": "$0.00",
+            "Agriculture Classification": "$0.00",
+            "Assessed Value": "$628.00",
+            "Exempt Value (County)": "$0.00",
+            "Taxable Value (County)": "$628.00"
+        },
+        "2016": {
+            "Land Value": "$628.00",
+            "Building Value": "$0.00",
+            "Misc. Items Value": "$0.00",
+            "Land Classified Value": "$0.00",
+            "Just Value (Market)": "$628.00",
+            "SOH Deferred Val": "$0.00",
+            "Agriculture Classification": "$0.00",
+            "Assessed Value": "$628.00",
+            "Exempt Value (County)": "$0.00",
+            "Taxable Value (County)": "$628.00"
+        }
+    },
+    "map_link": "https://map.polkpa.org/default.aspx?parcelid=222602000000032090",
+    "trim_pdf": "https://www.polkpa.org/TrimNotice/TRIMPopup.aspx?strap=222602000000032090&type=RealEstate&pdf=true",
+    "tax_link": "http://fl-polk-taxcollector.governmax.com/collectmax/site_authlink.asp?r=www.polkpa.org&g=222602000000032090",
+    "tax_collector": {
+        "account_number": "022622-000000-032090",
+        "tax_type": "REAL ESTATE",
+        "tax_year": "2020",
+        "ad_valorem_taxes": [
+            {
+                "taxing_authority": "GENERAL REVENUE FUND",
+                "rate": "5.5490",
+                "assessed_value": "628",
+                "exemption_amount": "0",
+                "taxable_value": "$628",
+                "amount": "$3.48"
+            },
+            {
+                "taxing_authority": "TRANSPORTATION/ROADS",
+                "rate": "1.1000",
+                "assessed_value": "628",
+                "exemption_amount": "0",
+                "taxable_value": "$628",
+                "amount": "$0.69"
+            },
+            {
+                "taxing_authority": "EMERGENCY MEDICAL",
+                "rate": "0.2500",
+                "assessed_value": "628",
+                "exemption_amount": "0",
+                "taxable_value": "$628",
+                "amount": "$0.16"
+            },
+            {
+                "taxing_authority": "POLK COUNTY PARKS MSTU",
+                "rate": "0.5619",
+                "assessed_value": "628",
+                "exemption_amount": "0",
+                "taxable_value": "$628",
+                "amount": "$0.35"
+            },
+            {
+                "taxing_authority": "POLK COUNTY LIBRARY",
+                "rate": "0.2109",
+                "assessed_value": "628",
+                "exemption_amount": "0",
+                "taxable_value": "$628",
+                "amount": "$0.13"
+            },
+            {
+                "taxing_authority": "POLK COUNTY STORMWATER",
+                "rate": "0.1000",
+                "assessed_value": "628",
+                "exemption_amount": "0",
+                "taxable_value": "$628",
+                "amount": "$0.06"
+            },
+            {
+                "taxing_authority": "POLK COUNTY RANCHO BONITO MSTU",
+                "rate": "9.1272",
+                "assessed_value": "628",
+                "exemption_amount": "0",
+                "taxable_value": "$628",
+                "amount": "$5.73"
+            },
+            {
+                "taxing_authority": "GENERAL FUND",
+                "rate": "4.4350",
+                "assessed_value": "628",
+                "exemption_amount": "0",
+                "taxable_value": "$628",
+                "amount": "$2.79"
+            },
+            {
+                "taxing_authority": "LOCAL CAPITAL IMP",
+                "rate": "1.5000",
+                "assessed_value": "628",
+                "exemption_amount": "0",
+                "taxable_value": "$628",
+                "amount": "$0.94"
+            },
+            {
+                "taxing_authority": "SOUTHWEST FLORIDA WATER MGMT",
+                "rate": "0.2669",
+                "assessed_value": "628",
+                "exemption_amount": "0",
+                "taxable_value": "$628",
+                "amount": "$0.17"
+            }
+        ],
+        "non_ad_valorem_taxes": [],
+        "amount_dues": [
+            {
+                "11/30/2020": "$13.92"
+            },
+            {
+                "12/31/2020": "$14.06"
+            },
+            {
+                "1/31/2021": "$14.21"
+            },
+            {
+                "2/28/2021": "$14.35"
+            },
+            {
+                "3/31/2021": "$14.50"
+            }
+        ]
+    }
+}

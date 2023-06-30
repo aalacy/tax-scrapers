@@ -1,0 +1,175 @@
+{
+    "folio": "0321315070A000000",
+    "url": "https://parceldetails.scpafl.org/ParcelDetailInfo.aspx?PID=0321315070A000000",
+    "parcel_info": {
+        "Parcel": "03-21-31-507-0A00-0000",
+        "Owner(s)": "OVIEDO PARK OWNERS ASSN INC",
+        "Property Address": "2 SWEET VIOLET DR OVIEDO FL 32765",
+        "Mailing": "151 SOUTHHALL LNSTE 200MAITLAND, FL 32751-7176",
+        "Subdivision Name": "OVIEDO PARK TOWNHOMES",
+        "Tax District": "V1-OVIEDO",
+        "DOR Use Code": "09-RESIDENTIAL COMMON ELEMENTS/AREAS",
+        "Exemptions": ""
+    },
+    "value_summary": {
+        "Tax Amount without SOH": "$0.00",
+        "2020 Tax Bill Amount": "$0.00",
+        "Save Our Homes Savings": "$0.00",
+        "table": [
+            {
+                "name": "Valuation Method",
+                "2021 Working Values": "Cost/Market",
+                "2020 Certified Values": "Cost/Market"
+            },
+            {
+                "name": "Number of Buildings",
+                "2021 Working Values": "0",
+                "2020 Certified Values": "0"
+            },
+            {
+                "name": "Depreciated Bldg Value",
+                "2021 Working Values": "",
+                "2020 Certified Values": ""
+            },
+            {
+                "name": "Depreciated EXFT Value",
+                "2021 Working Values": "",
+                "2020 Certified Values": ""
+            },
+            {
+                "name": "Land Value (Market)",
+                "2021 Working Values": "",
+                "2020 Certified Values": ""
+            },
+            {
+                "name": "Land Value Ag",
+                "2021 Working Values": "",
+                "2020 Certified Values": ""
+            },
+            {
+                "name": "Just/Market Value **",
+                "2021 Working Values": "$0",
+                "2020 Certified Values": "$0"
+            },
+            {
+                "name": "Portability Adj",
+                "2021 Working Values": "",
+                "2020 Certified Values": ""
+            },
+            {
+                "name": "Save Our Homes Adj",
+                "2021 Working Values": "$0",
+                "2020 Certified Values": "$0"
+            },
+            {
+                "name": "Amendment 1 Adj",
+                "2021 Working Values": "$0",
+                "2020 Certified Values": "$0"
+            },
+            {
+                "name": "P&G Adj",
+                "2021 Working Values": "$0",
+                "2020 Certified Values": "$0"
+            },
+            {
+                "name": "Assessed Value",
+                "2021 Working Values": "$0",
+                "2020 Certified Values": "$0"
+            }
+        ]
+    },
+    "legal_description": "TRACT AOVIEDO PARK TOWNHOMESPB 71 PGS 11 - 13",
+    "land": [],
+    "building_info": [],
+    "permits": [
+        {
+            "Permit #": "47523",
+            "Description": "3' X 557' FENCE",
+            "Agency": "Oviedo",
+            "Amount": "$43,003",
+            "CO Date": "",
+            "Permit Date": "3/27/2007"
+        }
+    ],
+    "extra_features": [
+        {
+            "Description": "IRON GATE",
+            "Year Built": "2/1/2007",
+            "Units": "306",
+            "Value": "$0",
+            "New Cost": ""
+        },
+        {
+            "Description": "BRICK WALL",
+            "Year Built": "2/1/2007",
+            "Units": "8,100",
+            "Value": "$0",
+            "New Cost": ""
+        }
+    ],
+    "taxes": [
+        {
+            "Taxing Authority": "OVIEDO BONDS",
+            "Assessment Value": "$0",
+            "Exempt Values": "$0",
+            "Taxable Value": "$0"
+        },
+        {
+            "Taxing Authority": "SJWM(Saint Johns Water Management)",
+            "Assessment Value": "$0",
+            "Exempt Values": "$0",
+            "Taxable Value": "$0"
+        },
+        {
+            "Taxing Authority": "COUNTY GENERAL FUND",
+            "Assessment Value": "$0",
+            "Exempt Values": "$0",
+            "Taxable Value": "$0"
+        },
+        {
+            "Taxing Authority": "CITY OVIEDO",
+            "Assessment Value": "$0",
+            "Exempt Values": "$0",
+            "Taxable Value": "$0"
+        },
+        {
+            "Taxing Authority": "Schools",
+            "Assessment Value": "$0",
+            "Exempt Values": "$0",
+            "Taxable Value": "$0"
+        }
+    ],
+    "sales": [],
+    "zoning": [
+        {
+            "Zoning": "PUD",
+            "Zoning Description": "",
+            "Future Land Use": "MDR",
+            "FutureLandUseDescription": "Medium Density Residential"
+        }
+    ],
+    "map_link": "https://maps2.scpafl.org/SCPAExternal/?query=PARCELS;PARCEL;0321315070A000000",
+    "comparable_sales_pdf": "https://comps.scpafl.org/?APPRID=4215426",
+    "tax_collector_link": "https://payments.seminolecounty.tax/_asp/payresult.asp?txtAccountID=0321315070A000000",
+    "tax_collector": {
+        "summary": {
+            "Parcel": "03-21-31-507-0A00-0000",
+            "Property Address": "2  SWEET VIOLET DR",
+            "Owner & Mailing Address": "OVIEDO PARK OWNERS ASSN INC, 151 SOUTHHALL LN, STE 200, MAITLAND FL 32751 7176",
+            "Tax Year": "2020",
+            "Tax Bill #": "145441",
+            "Non-School Assessed Value": "$0",
+            "School Assessed Value": "$0",
+            "Gross Tax Amount": "$0.00",
+            "Millage Code": "V1  OVIEDO",
+            "Exemptions Granted": "NO",
+            "Homestead": "NO",
+            "Additional Exemptions": "NO",
+            "Non-Ad Valorem Assessments": "*NONE*"
+        },
+        "Status": {
+            "Tax Status": "NO CURRENT YEAR TAXES DUE"
+        },
+        "Prior Years Unpaid Delinquent Taxes": "*NONE*"
+    }
+}

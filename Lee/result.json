@@ -1,0 +1,1214 @@
+{
+    "parcel_id": "02-43-20-06-00014.0060",
+    "parcel_id_": "02432006000140060",
+    "folio": "10000048",
+    "url": "https://www.leepa.org/Display/DisplayParcel.aspx?FolioID=10000048&ViewMobile=false",
+    "property_info": {
+        "owner": "ROUX INVESTMENT MANAGEMENT CO, 9323 ST BRIDES LN, UPPERVILLE VA 20184",
+        "site_address": "4037 SHORE LN, BOCA GRANDE FL 33921",
+        "legal_description": "PARL IN GOVT LOT 4, SEC 02 TWP 43 R 20, DESC IN OR 1284 PG 0577",
+        "classification": "SINGLE FAMILY RESIDENTIAL / 01",
+        "map_image": "http://gissvr.leepa.org/TaxMapImage/TaxMapImage.aspx?FolioID=10000048&w=500&h=281",
+        "attributes": {
+            "Just": "6,967,947",
+            "Land Units Of Measure": "LT",
+            "Units": "1.00",
+            "Total Number of Buildings": "1",
+            "Total Bedrooms / Bathrooms": "4   / 4.5",
+            "Total Living Area": "3,560",
+            "1st Year Building on Tax Roll": "1992",
+            "Historic Designation": "No"
+        },
+        "tax_map_viewer": "http://gissvr.leepa.org/geoview2/?folioid=10000048",
+        "aerial_viewer": "http://gissvr.leepa.org/pictoipa/default.aspx?folioid=10000048",
+        "images": [
+            "https://www.leepa.org/dotnet/photo/photo.aspx?id=3386882&Height=281&Width=500"
+        ]
+    },
+    "exemptions": [],
+    "values": [
+        {
+            "Just": "6,967,917",
+            "Assessed": "6,967,917",
+            "Portability Applied": "0",
+            "Cap Assessed": "6,967,917",
+            "Taxable": "6,967,917",
+            "Cap Difference": "0"
+        },
+        {
+            "Land Units Of Measure": "LT",
+            "Units": "1.00",
+            "Total Number of Buildings": "1",
+            "Total Bedrooms / Bathrooms": "4   / 4.5",
+            "Total Living Area": "3,481",
+            "1st Year Building on Tax Roll": "1992",
+            "Historic Designation": "No"
+        }
+    ],
+    "tax_authorities": [
+        {
+            "Name / Code": "LEE CO GENERAL REVENUE / 044",
+            "Category": "County",
+            "Mailing Address": "LEE COUNTY OFFICE OF MGMT & BUDGETPO BOX 398FORT MYERS FL 33902-0398"
+        },
+        {
+            "Name / Code": "GASPARILLA ISLAND MSTU / 391",
+            "Category": "Dependent District",
+            "Mailing Address": "LEE COUNTY MSTU / MSBUPO BOX 398FORT MYERS FL 33902-0398"
+        },
+        {
+            "Name / Code": "LEE CO ALL HAZARDS PROTECTION DIST / 101",
+            "Category": "Dependent District",
+            "Mailing Address": "LEE COUNTY OFFICE OF MGMT & BUDGETPO BOX 398FORT MYERS FL 33902-0398"
+        },
+        {
+            "Name / Code": "LEE CO LIBRARY DIST / 052",
+            "Category": "Dependent District",
+            "Mailing Address": "LEE COUNTY OFFICE OF MGMT & BUDGETPO BOX 398FORT MYERS FL 33902-0398"
+        },
+        {
+            "Name / Code": "LEE CO UNINCORPORATED MSTU / 020",
+            "Category": "Dependent District",
+            "Mailing Address": "LEE COUNTY OFFICE OF MGMT & BUDGETPO BOX 398FORT MYERS FL 33902-0398"
+        },
+        {
+            "Name / Code": "BOCA GRANDE FIRE CONTROL DIST / 008",
+            "Category": "Independent District",
+            "Mailing Address": "BOCA GRANDE FIRE CONTROL DISTPO BOX 532BOCA GRANDE FL 33921"
+        },
+        {
+            "Name / Code": "LEE CO HYACINTH CONTROL DIST / 051",
+            "Category": "Independent District",
+            "Mailing Address": "LEE CO HYACINTH CONTROL DIST15191 HOMESTEAD RDLEHIGH ACRES FL 33971"
+        },
+        {
+            "Name / Code": "LEE CO MOSQUITO CONTROL DIST / 053",
+            "Category": "Independent District",
+            "Mailing Address": "LEE CO MOSQUITO CONTROL DIST15191 HOMESTEAD RDLEHIGH ACRES FL 33971"
+        },
+        {
+            "Name / Code": "WEST COAST INLAND NAVIGATION DIST / 098",
+            "Category": "Independent District",
+            "Mailing Address": "WEST COAST INLAND NAVIGATION DIST200 MIAMI AVE EVENICE FL 34285-2408"
+        },
+        {
+            "Name / Code": "PUBLIC SCHOOL - BY LOCAL BOARD / 012",
+            "Category": "Public Schools",
+            "Mailing Address": "LEE COUNTY SCHOOL BOARDBUDGET DEPARTMENT2855 COLONIAL BLVDFORT MYERS FL 33966"
+        },
+        {
+            "Name / Code": "PUBLIC SCHOOL - BY STATE LAW / 013",
+            "Category": "Public Schools",
+            "Mailing Address": "LEE COUNTY SCHOOL BOARDBUDGET DEPARTMENT2855 COLONIAL BLVDFORT MYERS FL 33966"
+        },
+        {
+            "Name / Code": "GASPARILLA ISLAND MSBU / 307",
+            "Category": "Special District",
+            "Mailing Address": "LEE COUNTY MSTU / MSBUPO BOX 398FORT MYERS FL 33902-0398"
+        },
+        {
+            "Name / Code": "SFWMD-DISTRICT-WIDE / 110",
+            "Category": "Water District",
+            "Mailing Address": "SFWMD3301 GUN CLUB RDWEST PALM BEACH FL 33406"
+        },
+        {
+            "Name / Code": "SFWMD-EVERGLADES CONSTRUCTION PROJECT / 084",
+            "Category": "Water District",
+            "Mailing Address": "SFWMD3301 GUN CLUB RDWEST PALM BEACH FL 33406"
+        },
+        {
+            "Name / Code": "SFWMD-OKEECHOBEE BASIN / 308",
+            "Category": "Water District",
+            "Mailing Address": "SFWMD3301 GUN CLUB RDWEST PALM BEACH FL 33406"
+        }
+    ],
+    "sales": [
+        {
+            "Sale Price": "5,000,000.00",
+            "Date": "01/10/2018",
+            "OR Number": "2018000009367",
+            "Type": "01",
+            "Description": "Sales qualified and included for sales ratio analysis Transfers qualified as arm\u2019s length because of examination of the deed or other instrument transferring ownership of real property",
+            "Vacant/Improved": "I"
+        },
+        {
+            "Sale Price": "4,250,000.00",
+            "Date": "09/30/2002",
+            "OR Number": "3745/4442",
+            "Type": "06",
+            "Description": "Sales qualified and included for sales ratio analysis Qualified (Fair Market Value / Arms Length / One STRAP #)",
+            "Vacant/Improved": "I"
+        },
+        {
+            "Sale Price": "100.00",
+            "Date": "07/01/1993",
+            "OR Number": "2408/1105",
+            "Type": "01",
+            "Description": "Sales disqualified as a result of examination of the deed Disqualified (Doc Stamp .70 / SP less th $100 / Other Disq)",
+            "Vacant/Improved": "I"
+        },
+        {
+            "Sale Price": "1,160,000.00",
+            "Date": "01/01/1993",
+            "OR Number": "2359/2231",
+            "Type": "06",
+            "Description": "Sales qualified and included for sales ratio analysis Qualified (Fair Market Value / Arms Length / One STRAP #)",
+            "Vacant/Improved": "I"
+        }
+    ],
+    "PermitDetails": [
+        {
+            "Permit Number": "FNC2020-00137",
+            "Permit Type": "Fence",
+            "Date": "02/18/2020"
+        },
+        {
+            "Permit Number": "RES2019-07231",
+            "Permit Type": "Building Remodel / Repair",
+            "Date": "12/18/2019"
+        },
+        {
+            "Permit Number": "POL2019-00182",
+            "Permit Type": "Pool & Spa",
+            "Date": "04/01/2019"
+        },
+        {
+            "Permit Number": "DEM2018-10086",
+            "Permit Type": "Demolition",
+            "Date": "09/21/2018"
+        },
+        {
+            "Permit Number": "199009809",
+            "Permit Type": "Residential",
+            "Date": "09/27/1990"
+        },
+        {
+            "Permit Number": "86608",
+            "Permit Type": "Residential",
+            "Date": "04/20/1982"
+        }
+    ],
+    "parcel_numbring_history": [
+        {
+            "Prior STRAP": "02-43-20-00-00001.0000",
+            "Prior Folio ID": "10000002",
+            "Renumber Reason": "Split (From another Parcel)",
+            "Renumber Date": ""
+        },
+        {
+            "Prior STRAP": "02-43-20-00-00001.0470",
+            "Prior Folio ID": "N/A",
+            "Renumber Reason": "Reserved for Renumber ONLY",
+            "Renumber Date": "12/02/1998"
+        }
+    ],
+    "solid_waste": [
+        {
+            "Solid Waste District": "006 - Service Area 6",
+            "Roll Type": "R - Residential Category",
+            "Category": "",
+            "Unit / Area": "1",
+            "Tax Amount": "204.79"
+        }
+    ],
+    "flood_zone": [
+        {
+            "Community": "125124",
+            "Panel": "0019",
+            "Version": "F",
+            "Date": "8/28/2008",
+            "Evacuation Zone": "A"
+        }
+    ],
+    "address_history": [
+        {
+            "Street Number": "4037",
+            "Street Name": "SHORE LN",
+            "Unit": "",
+            "City": "Boca Grande",
+            "Zip": "33921",
+            "Maintenance Date": "12/31/1996 11:11:19 AM"
+        }
+    ],
+    "appraisal_details": {
+        "Land": {
+            "Land Tracts": [
+                {
+                    "Use Code": "120",
+                    "Use Code Description": "Single Family Residential, Gulf Frontage",
+                    "Number of Units": "1.00",
+                    "Unit of Measure": "Lot"
+                }
+            ],
+            "Land Features": [
+                {
+                    "Description": "IRRIGATION SYSTEM LAWN",
+                    "Year Added": "2019",
+                    "Units": "1"
+                }
+            ]
+        },
+        "Buildings": [
+            {
+                "Building Characteristics": [
+                    {
+                        "Improvement Type": "104 - Key West",
+                        "Model Type": "1 - single family residential",
+                        "Stories": "1.5",
+                        "Living Units": "1"
+                    },
+                    {
+                        "Bedrooms": "4",
+                        "Bathrooms": "4.5",
+                        "Year Built": "1992",
+                        "Effective Year Built": "2002"
+                    }
+                ],
+                "Building Subareas": [
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "758"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "64"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "12"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "304"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "138"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "400"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "13"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "95"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "89"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "48"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "10"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "8"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "328"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "137"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "49"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "306"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "28"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "36"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "4"
+                    },
+                    {
+                        "Description": "CFL - CATHEDRAL FLOOR AREA",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "84"
+                    },
+                    {
+                        "Description": "FHS - FINISHED HALF STORY",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "64"
+                    },
+                    {
+                        "Description": "FHS - FINISHED HALF STORY",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "13"
+                    },
+                    {
+                        "Description": "FHS - FINISHED HALF STORY",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "95"
+                    },
+                    {
+                        "Description": "FHS - FINISHED HALF STORY",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "48"
+                    },
+                    {
+                        "Description": "FHS - FINISHED HALF STORY",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "10"
+                    },
+                    {
+                        "Description": "FHS - FINISHED HALF STORY",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "328"
+                    },
+                    {
+                        "Description": "FHS - FINISHED HALF STORY",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "137"
+                    },
+                    {
+                        "Description": "FHS - FINISHED HALF STORY",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "78"
+                    },
+                    {
+                        "Description": "FHS - FINISHED HALF STORY",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "49"
+                    },
+                    {
+                        "Description": "FHS - FINISHED HALF STORY",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "306"
+                    },
+                    {
+                        "Description": "FHS - FINISHED HALF STORY",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "8"
+                    },
+                    {
+                        "Description": "FLG - FINISHED LOWER GARAGE",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "758"
+                    },
+                    {
+                        "Description": "FLL - FINISHED LOWER LEVEL",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "304"
+                    },
+                    {
+                        "Description": "FLL - FINISHED LOWER LEVEL",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "138"
+                    },
+                    {
+                        "Description": "FLL - FINISHED LOWER LEVEL",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "400"
+                    },
+                    {
+                        "Description": "FLL - FINISHED LOWER LEVEL",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "95"
+                    },
+                    {
+                        "Description": "FLL - FINISHED LOWER LEVEL",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "48"
+                    },
+                    {
+                        "Description": "FLU - FINISHED LOWER UTILITY",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "64"
+                    },
+                    {
+                        "Description": "FLU - FINISHED LOWER UTILITY",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "12"
+                    },
+                    {
+                        "Description": "FLU - FINISHED LOWER UTILITY",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "137"
+                    },
+                    {
+                        "Description": "FLU - FINISHED LOWER UTILITY",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "8"
+                    },
+                    {
+                        "Description": "FLU - FINISHED LOWER UTILITY",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "28"
+                    },
+                    {
+                        "Description": "FLU - FINISHED LOWER UTILITY",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "84"
+                    },
+                    {
+                        "Description": "FOP - FINISHED OPEN PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "143"
+                    },
+                    {
+                        "Description": "FOP - FINISHED OPEN PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "84"
+                    },
+                    {
+                        "Description": "FOP - FINISHED OPEN PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "100"
+                    },
+                    {
+                        "Description": "FOP - FINISHED OPEN PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "96"
+                    },
+                    {
+                        "Description": "FOP - FINISHED OPEN PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "133"
+                    },
+                    {
+                        "Description": "FSP - FINISHED SCREEN PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "229"
+                    },
+                    {
+                        "Description": "FSP - FINISHED SCREEN PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "200"
+                    },
+                    {
+                        "Description": "FSP - FINISHED SCREEN PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "84"
+                    },
+                    {
+                        "Description": "FSP - FINISHED SCREEN PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "46"
+                    },
+                    {
+                        "Description": "FSP - FINISHED SCREEN PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "78"
+                    },
+                    {
+                        "Description": "FSP - FINISHED SCREEN PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "8"
+                    },
+                    {
+                        "Description": "FSP - FINISHED SCREEN PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "84"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "13"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "143"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "89"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "328"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "49"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "96"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "133"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "200"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "84"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "46"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "229"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "100"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "36"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "10"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "84"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "306"
+                    },
+                    {
+                        "Description": "STP - STOOP",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "62"
+                    },
+                    {
+                        "Description": "STP - STOOP",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "46"
+                    }
+                ],
+                "Building Features": [
+                    {
+                        "Description": "XTRA/ADDITIONAL A/C UNITS",
+                        "Year Added": "2010",
+                        "Units": "4"
+                    },
+                    {
+                        "Description": "POOL - RESIDENTIAL",
+                        "Year Added": "2019",
+                        "Units": "462"
+                    },
+                    {
+                        "Description": "PATIO - BRICK AND TILE",
+                        "Year Added": "2019",
+                        "Units": "843"
+                    },
+                    {
+                        "Description": "A/C-POOL HEATERS",
+                        "Year Added": "2019",
+                        "Units": "1"
+                    },
+                    {
+                        "Building Front Photo": [
+                            "https://www.leepa.org/dotnet/photo/photo.aspx?id=3386882&Width=640"
+                        ],
+                        "Building Footprint": [
+                            "https://www.leepa.org/dotnet/FloorPlan/FloorPlanGenerator.aspx?FolioID=10000048&BuildingNo=1&FloorNo=0&TaxYear=2020&Weight=640",
+                            "https://www.leepa.org/dotnet/FloorPlan/FloorPlanGenerator.aspx?FolioID=10000048&BuildingNo=1&FloorNo=1&TaxYear=2020&Weight=640",
+                            "https://www.leepa.org/dotnet/FloorPlan/FloorPlanGenerator.aspx?FolioID=10000048&BuildingNo=1&FloorNo=2&TaxYear=2020&Weight=640"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "appraisal_details_current": {
+        "Land": {
+            "Land Tracts": [
+                {
+                    "Use Code": "120",
+                    "Use Code Description": "Single Family Residential, Gulf Frontage",
+                    "Number of Units": "1.00",
+                    "Unit of Measure": "Lot"
+                }
+            ],
+            "Land Features": [
+                {
+                    "Description": "IRRIGATION SYSTEM LAWN",
+                    "Year Added": "2019",
+                    "Units": "1"
+                },
+                {
+                    "Description": "FENCE - ALUM/VINYL - 4 FEET",
+                    "Year Added": "2020",
+                    "Units": "100"
+                }
+            ]
+        },
+        "Buildings": [
+            {
+                "Building Characteristics": [
+                    {
+                        "Improvement Type": "104 - Key West",
+                        "Model Type": "1 - single family residential",
+                        "Stories": "1.5",
+                        "Living Units": "1"
+                    },
+                    {
+                        "Bedrooms": "4",
+                        "Bathrooms": "4.5",
+                        "Year Built": "1992",
+                        "Effective Year Built": "2002"
+                    }
+                ],
+                "Building Subareas": [
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "241"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "28"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "603"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "72"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "76"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "48"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "436"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "11"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "64"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "645"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "562"
+                    },
+                    {
+                        "Description": "BAS - BASE",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "113"
+                    },
+                    {
+                        "Description": "CFL - CATHEDRAL FLOOR AREA",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "60"
+                    },
+                    {
+                        "Description": "CFL - CATHEDRAL FLOOR AREA",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "24"
+                    },
+                    {
+                        "Description": "FHS - FINISHED HALF STORY",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "72"
+                    },
+                    {
+                        "Description": "FHS - FINISHED HALF STORY",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "76"
+                    },
+                    {
+                        "Description": "FHS - FINISHED HALF STORY",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "7"
+                    },
+                    {
+                        "Description": "FHS - FINISHED HALF STORY",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "436"
+                    },
+                    {
+                        "Description": "FHS - FINISHED HALF STORY",
+                        "Heated / Under Air": "Y",
+                        "Area (Sq Ft)": "562"
+                    },
+                    {
+                        "Description": "FLG - FINISHED LOWER GARAGE",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "603"
+                    },
+                    {
+                        "Description": "FLG - FINISHED LOWER GARAGE",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "645"
+                    },
+                    {
+                        "Description": "FLL - FINISHED LOWER LEVEL",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "241"
+                    },
+                    {
+                        "Description": "FLL - FINISHED LOWER LEVEL",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "72"
+                    },
+                    {
+                        "Description": "FLU - FINISHED LOWER UTILITY",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "28"
+                    },
+                    {
+                        "Description": "FLU - FINISHED LOWER UTILITY",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "76"
+                    },
+                    {
+                        "Description": "FLU - FINISHED LOWER UTILITY",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "60"
+                    },
+                    {
+                        "Description": "FLU - FINISHED LOWER UTILITY",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "7"
+                    },
+                    {
+                        "Description": "FLU - FINISHED LOWER UTILITY",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "77"
+                    },
+                    {
+                        "Description": "FLU - FINISHED LOWER UTILITY",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "11"
+                    },
+                    {
+                        "Description": "FLU - FINISHED LOWER UTILITY",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "562"
+                    },
+                    {
+                        "Description": "FOP - FINISHED OPEN PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "143"
+                    },
+                    {
+                        "Description": "FOP - FINISHED OPEN PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "72"
+                    },
+                    {
+                        "Description": "FOP - FINISHED OPEN PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "342"
+                    },
+                    {
+                        "Description": "FSP - FINISHED SCREEN PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "185"
+                    },
+                    {
+                        "Description": "FSP - FINISHED SCREEN PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "72"
+                    },
+                    {
+                        "Description": "FSP - FINISHED SCREEN PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "48"
+                    },
+                    {
+                        "Description": "FSP - FINISHED SCREEN PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "7"
+                    },
+                    {
+                        "Description": "FSP - FINISHED SCREEN PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "77"
+                    },
+                    {
+                        "Description": "FSP - FINISHED SCREEN PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "198"
+                    },
+                    {
+                        "Description": "FSP - FINISHED SCREEN PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "20"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "185"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "143"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "72"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "48"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "24"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "436"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "198"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "113"
+                    },
+                    {
+                        "Description": "LCP - LOWER CARPORT / OPEN  PORCH",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "342"
+                    },
+                    {
+                        "Description": "STP - STOOP",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "36"
+                    },
+                    {
+                        "Description": "STP - STOOP",
+                        "Heated / Under Air": "N",
+                        "Area (Sq Ft)": "48"
+                    }
+                ],
+                "Building Features": [
+                    {
+                        "Description": "POOL - RESIDENTIAL",
+                        "Year Added": "2019",
+                        "Units": "498"
+                    },
+                    {
+                        "Description": "PATIO - BRICK AND TILE",
+                        "Year Added": "2019",
+                        "Units": "887"
+                    },
+                    {
+                        "Description": "A/C-POOL HEATERS",
+                        "Year Added": "2019",
+                        "Units": "1"
+                    },
+                    {
+                        "Description": "OUTDOOR SHOWER",
+                        "Year Added": "2019",
+                        "Units": "1"
+                    },
+                    {
+                        "Description": "TANKLESS GAS FIRED HOT WATER",
+                        "Year Added": "2019",
+                        "Units": "1"
+                    },
+                    {
+                        "Description": "XTRA/ADDITIONAL A/C UNITS",
+                        "Year Added": "2019",
+                        "Units": "4"
+                    },
+                    {
+                        "Building Front Photo": [
+                            "https://www.leepa.org/dotnet/photo/photo.aspx?id=3386882&Width=640"
+                        ],
+                        "Building Footprint": [
+                            "https://www.leepa.org/dotnet/FloorPlan/FloorPlanGenerator.aspx?FolioID=10000048&BuildingNo=1&FloorNo=0&TaxYear=2018&Weight=640&Current=true",
+                            "https://www.leepa.org/dotnet/FloorPlan/FloorPlanGenerator.aspx?FolioID=10000048&BuildingNo=1&FloorNo=1&TaxYear=2018&Weight=640&Current=true",
+                            "https://www.leepa.org/dotnet/FloorPlan/FloorPlanGenerator.aspx?FolioID=10000048&BuildingNo=1&FloorNo=2&TaxYear=2018&Weight=640&Current=true"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "trim_pdfs": [
+        {
+            "2007": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000048&TaxYear=2007"
+        },
+        {
+            "2008": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000048&TaxYear=2008"
+        },
+        {
+            "2009": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000048&TaxYear=2009"
+        },
+        {
+            "2010": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000048&TaxYear=2010"
+        },
+        {
+            "2011": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000048&TaxYear=2011"
+        },
+        {
+            "2012": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000048&TaxYear=2012"
+        },
+        {
+            "2013": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000048&TaxYear=2013"
+        },
+        {
+            "2014": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000048&TaxYear=2014"
+        },
+        {
+            "2015": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000048&TaxYear=2015"
+        },
+        {
+            "2016": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000048&TaxYear=2016"
+        },
+        {
+            "2017": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000048&TaxYear=2017"
+        },
+        {
+            "2018": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000048&TaxYear=2018"
+        },
+        {
+            "2019": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000048&TaxYear=2019"
+        },
+        {
+            "2020": "https://www.leepa.org/Display/DisplayTrim.aspx?FolioID=10000048&TaxYear=2020"
+        }
+    ],
+    "location_information": {
+        "Township": "43",
+        "Range": "20E",
+        "Section": "02",
+        "Block": "",
+        "Lot": "",
+        "Municipality": "Lee County Unincorporated - 0",
+        "Latitude": "26.78018",
+        "Longitude": "-82.26815",
+        "google_map": "https://maps.google.com/?z=19&t=k&q=loc:26.78018+-82.26815",
+        "lee_clerk": "",
+        "geo_view": "http://gissvr.leepa.org/geoview2/?FolioId=10000048"
+    },
+    "tax_collector": {
+        "account": "02-43-20-06-00014.0060",
+        "tax_year": "2020",
+        "status": "PAID",
+        "orignal_account": "02-43-20-06-00014.0060",
+        "instrument_number": "2018000009367",
+        "owner": "ROUX INVESTMENT MANAGEMENT CO",
+        "physical_address": "4037 SHORE LN  BOCA GRANDE FL\u00a0\u00a033921",
+        "mailing_address": "9323 ST BRIDES LN UPPERVILLE VA\u00a0\u00a020184 USA",
+        "legal_description": "PARL IN GOVT LOT 4 SEC 02 TWP 43 R 20 DESC IN OR 1284 PG 0577",
+        "values_and_exemptions": {
+            "District": "005",
+            "Market Assessed Value": "$6,967,916",
+            "Cap Assessed Value": "$6,967,916",
+            "Taxable Value": "$6,967,916",
+            "Combined Tax & Assessment Amount": "$95,067.40"
+        },
+        "Ad Valorem Taxes": [
+            {
+                "Taxing Authority": "LEE COUNTY GENERAL REVENUE",
+                "Mill Rate": "4.0506",
+                "Assessed": "6,967,916",
+                "Exempt": "0",
+                "Taxable": "6,967,916",
+                "Amount": "$28,224.24"
+            },
+            {
+                "Taxing Authority": "PUBLIC SCHOOL - BY LOCAL BOARD",
+                "Mill Rate": "2.2480",
+                "Assessed": "6,967,916",
+                "Exempt": "0",
+                "Taxable": "6,967,916",
+                "Amount": "$15,663.88"
+            },
+            {
+                "Taxing Authority": "PUBLIC SCHOOL - BY STATE LAW",
+                "Mill Rate": "3.8100",
+                "Assessed": "6,967,916",
+                "Exempt": "0",
+                "Taxable": "6,967,916",
+                "Amount": "$26,547.76"
+            },
+            {
+                "Taxing Authority": "GASPARILLA ISLAND MSTU",
+                "Mill Rate": "0.0520",
+                "Assessed": "6,967,916",
+                "Exempt": "0",
+                "Taxable": "6,967,916",
+                "Amount": "$362.33"
+            },
+            {
+                "Taxing Authority": "LEE COUNTY ALL HAZARDS - MSTU",
+                "Mill Rate": "0.0693",
+                "Assessed": "6,967,916",
+                "Exempt": "0",
+                "Taxable": "6,967,916",
+                "Amount": "$482.88"
+            },
+            {
+                "Taxing Authority": "LEE COUNTY LIBRARY FUND",
+                "Mill Rate": "0.4956",
+                "Assessed": "6,967,916",
+                "Exempt": "0",
+                "Taxable": "6,967,916",
+                "Amount": "$3,453.30"
+            },
+            {
+                "Taxing Authority": "LEE COUNTY UNINCORPORATED - MSTU",
+                "Mill Rate": "0.8398",
+                "Assessed": "6,967,916",
+                "Exempt": "0",
+                "Taxable": "6,967,916",
+                "Amount": "$5,851.66"
+            },
+            {
+                "Taxing Authority": "SFL WATER MGMT-DISTRICT LEVY",
+                "Mill Rate": "0.1103",
+                "Assessed": "6,967,916",
+                "Exempt": "0",
+                "Taxable": "6,967,916",
+                "Amount": "$768.56"
+            },
+            {
+                "Taxing Authority": "SFL WATER MGMT-EVERGLADE CONST",
+                "Mill Rate": "0.0380",
+                "Assessed": "6,967,916",
+                "Exempt": "0",
+                "Taxable": "6,967,916",
+                "Amount": "$264.78"
+            },
+            {
+                "Taxing Authority": "SFL WATER MGMT-OKEECHOBEE LEVY",
+                "Mill Rate": "0.1192",
+                "Assessed": "6,967,916",
+                "Exempt": "0",
+                "Taxable": "6,967,916",
+                "Amount": "$830.58"
+            },
+            {
+                "Taxing Authority": "BOCA GRANDE FIRE CONTROL DISTRICT",
+                "Mill Rate": "1.4760",
+                "Assessed": "6,967,916",
+                "Exempt": "0",
+                "Taxable": "6,967,916",
+                "Amount": "$10,284.64"
+            },
+            {
+                "Taxing Authority": "LEE COUNTY HYACINTH CONTROL",
+                "Mill Rate": "0.0221",
+                "Assessed": "6,967,916",
+                "Exempt": "0",
+                "Taxable": "6,967,916",
+                "Amount": "$153.99"
+            },
+            {
+                "Taxing Authority": "LEE COUNTY MOSQUITO CONTROL",
+                "Mill Rate": "0.2439",
+                "Assessed": "6,967,916",
+                "Exempt": "0",
+                "Taxable": "6,967,916",
+                "Amount": "$1,699.47"
+            },
+            {
+                "Taxing Authority": "WEST COAST INLAND NAVIGATION DISTRICT",
+                "Mill Rate": "0.0394",
+                "Assessed": "6,967,916",
+                "Exempt": "0",
+                "Taxable": "6,967,916",
+                "Amount": "$274.54"
+            }
+        ],
+        "Non-Ad Valorem Taxes": [
+            {
+                "Taxing Authority": "LEE COUNTY SOLID WASTE ASSESSMENT",
+                "Rate": "1.0000",
+                "Basis": "VARIES",
+                "Amount": "$204.79"
+            }
+        ],
+        "amount_due_if_paid_in": {
+            "November 2020": "$91,264.70",
+            "December 2020": "$92,215.38",
+            "January 2021": "$93,166.05",
+            "February 2021": "$94,116.73",
+            "March 2021": "$95,067.40"
+        }
+    }
+}

@@ -1,0 +1,219 @@
+{
+    "pin": "153323ZZZ000000000201A",
+    "url": "https://gis.hcpafl.org/PropertySearch/#/parcel/basic/153323ZZZ000000000201A",
+    "folio": "290000-0202",
+    "owner_info": {
+        "name": "TAMPA PORT AUTHORITY; ",
+        "mailing_address": "1101 CHANNELSIDE DR STE 400  TAMPA  FL 33602-3609"
+    },
+    "value_summary": [
+        {
+            "assessedVal": 100,
+            "exemptions": 100,
+            "marketVal": 100,
+            "sequence": 4,
+            "taxDist": "Other Districts",
+            "taxableVal": 0
+        },
+        {
+            "assessedVal": 100,
+            "exemptions": 100,
+            "marketVal": 100,
+            "sequence": 3,
+            "taxDist": "Municipal",
+            "taxableVal": 0
+        },
+        {
+            "assessedVal": 100,
+            "exemptions": 100,
+            "marketVal": 100,
+            "sequence": 2,
+            "taxDist": "Public Schools",
+            "taxableVal": 0
+        },
+        {
+            "assessedVal": 100,
+            "exemptions": 100,
+            "marketVal": 100,
+            "sequence": 1,
+            "taxDist": "County",
+            "taxableVal": 0
+        }
+    ],
+    "sale_history": null,
+    "building_info": [],
+    "extra_feature": null,
+    "land_line": [
+        {
+            "acres": 0.0,
+            "depth": 0.0,
+            "frontage": 0.0,
+            "item": 1,
+            "landType": {
+                "code": "LT",
+                "description": "LOTS"
+            },
+            "landUse": {
+                "code": "9510",
+                "description": "GOVERNMENT WATER"
+            },
+            "units": 1.0,
+            "value": 100,
+            "zone": "RMC-16"
+        }
+    ],
+    "legal": [
+        "TAMPA BAY SUBMERGED LANDS IN N PORTIONS OF SECTIONS  33-17, 33-16 AND 33-15"
+    ],
+    "map": "https://gis.hcpafl.org/GisSearch/?pin=153323ZZZ000000000201A",
+    "trim": "http://dmz.hcpafl.org/trim_re.cfm?folio=2900000202",
+    "tax_collector": {
+        "parcel_details": {
+            "owner": "TAMPA PORT AUTHORITY",
+            "situs": "(unknown)",
+            "account": "A2900000202",
+            "millage_code": "2900000202",
+            "millage_rate": "TA",
+            "assessed_value": "$100",
+            "school_assessed_value": "$100",
+            "escrow_company": "19.8490",
+            "2019_annual_bill": [
+                {
+                    "ad_valorem": "$0.00",
+                    "non-ad_valorem": "$0.00",
+                    "total_discountable": "$0.00",
+                    "no_discount_nava": "$0.00",
+                    "total_tax": "$0.00"
+                }
+            ],
+            "legal_description": "TAMPA BAYSUBMERGED LANDS IN N PORTIONS OF SECTIONS33-17, 33-16 AND 33-15",
+            "location": {
+                "book_page_item": "--",
+                "geo_number": "a-23-33-15-zzz-000000-00020.1",
+                "range": "15",
+                "township": "33",
+                "section": "23",
+                "neighborhood": "ruskin sw of shell pt & hwy 41",
+                "block": "000000",
+                "lot": "00020.1",
+                "use_code": "8670",
+                "total_acres": "0.000"
+            }
+        },
+        "ad_valorem_tax": {
+            "table": {
+                "county_operating": {
+                    "taxing_authority": "COUNTY OPERATING ",
+                    "millage": "5.7309 ",
+                    "assessed": "100 ",
+                    "exemption": "100 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00  "
+                },
+                "environmental_land": {
+                    "taxing_authority": "ENVIRONMENTAL LAND ",
+                    "millage": "0.0604 ",
+                    "assessed": "100 ",
+                    "exemption": "100 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "library-service": {
+                    "taxing_authority": "LIBRARY-SERVICE ",
+                    "millage": "0.5583 ",
+                    "assessed": "100 ",
+                    "exemption": "100 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "school_-_local": {
+                    "taxing_authority": "SCHOOL - LOCAL ",
+                    "millage": "2.2480 ",
+                    "assessed": "100 ",
+                    "exemption": "100 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "school_-_state": {
+                    "taxing_authority": "SCHOOL - STATE ",
+                    "millage": "3.7190 ",
+                    "assessed": "100 ",
+                    "exemption": "100 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "port_authority": {
+                    "taxing_authority": "PORT AUTHORITY ",
+                    "millage": "0.0990 ",
+                    "assessed": "100 ",
+                    "exemption": "100 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "hills_co_transit_authority": {
+                    "taxing_authority": "HILLS CO TRANSIT AUTHORITY ",
+                    "millage": "0.5000 ",
+                    "assessed": "100 ",
+                    "exemption": "100 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "childrens_board": {
+                    "taxing_authority": "CHILDRENS BOARD ",
+                    "millage": "0.4589 ",
+                    "assessed": "100 ",
+                    "exemption": "100 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "water_management": {
+                    "taxing_authority": "WATER MANAGEMENT ",
+                    "millage": "0.2669  ",
+                    "assessed": "100 ",
+                    "exemption": "100 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "tampa_city": {
+                    "taxing_authority": "TAMPA CITY ",
+                    "millage": "6.2076 ",
+                    "assessed": "100 ",
+                    "exemption": "100 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                }
+            },
+            "total": {
+                "millage": "19.8490 ",
+                "tax": "$0.00 "
+            }
+        },
+        "non_ad_valorem_assessments": {
+            "table": [],
+            "total": {
+                "t_rate": "",
+                "t_amount": ""
+            }
+        },
+        "latest_annual_bill": {
+            "total": {
+                "bill": "2020 Annual bill ",
+                "alternate_key": "2900000202 ",
+                "escrow_code": "\u2014 ",
+                "millage_code": "TA ",
+                "amount_due": " $0.00 "
+            },
+            "pdfurls": [
+                "https://hillsborough.county-taxes.com/public/real_estate/parcels/A2900000202/bills/7621318/print"
+            ],
+            "pdfs": [
+                "A2900000202_bills_7621318.pdf"
+            ],
+            "notices": ""
+        },
+        "mailing_address": {
+            "hillsborough_county_tax_collector": "P.O. Box 30012 Tampa, Florida 33630-3012"
+        },
+        "combined_tax_collector": "$0.00"
+    }
+}

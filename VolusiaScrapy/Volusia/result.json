@@ -1,0 +1,903 @@
+{
+    "folio": "010100000010",
+    "parcel": {
+        "Short Parcel Id": "010100000010",
+        "Property  Location": "4200 E SR 46, GENEVA, 32764",
+        "PC Code": "8000 - VACANT GOVERNMENTAL",
+        "Total Bldgs": "0",
+        "Neighborhood": "5724 - ACREAGE N OF RIVER --LOW LAND",
+        "Business Name": "",
+        "Homestead Property": "No"
+    },
+    "owner": {
+        "owner_name": "STATE OF FLORIDA DOT",
+        "in_care_of": "",
+        "mailing_address": "719 S WOODLAND BLVD DELAND FL 32720 6834"
+    },
+    "legal_description": {
+        "millage_group": "100-UNINCORPORATED - WESTSIDE",
+        "legal_description": "1 20 31 ALL N OF ST JOHNS RIVER EXC STATE ROAD RT OF WAY PER  DB 404 PG 549 PER OR 2110 PG 0299 PER OR 4867 PGS 4033-4034 PER OR 5943 PGS 4196-4199 INC",
+        "map_twp-rng-sec": "20 - 31 - 01",
+        "subdivision-block-lot": "00 - 00 - 0010",
+        "date_created": "21-DEC-81",
+        "year_annexed": ""
+    },
+    "sales": [
+        {
+            "Book/Page": "5943 / 4196",
+            "Instr Type": "OT1-ORDER OF TAKING",
+            "Inst #": "2006272555",
+            "Sale Date": "10/30/2006",
+            "V/I": "I",
+            "Sale Price": "$100"
+        },
+        {
+            "Book/Page": "4911 / 1013",
+            "Instr Type": "QC-QUIT CLAIM DEED",
+            "Inst #": "2002183619",
+            "Sale Date": "07/15/2002",
+            "V/I": "I",
+            "Sale Price": "$10"
+        },
+        {
+            "Book/Page": "4867 / 4033",
+            "Instr Type": "PR-vcpa pr",
+            "Inst #": "2002112145",
+            "Sale Date": "05/15/2002",
+            "V/I": "I",
+            "Sale Price": "$10"
+        },
+        {
+            "Book/Page": "2110 / 0299",
+            "Instr Type": "WD-WARRANTY DEED",
+            "Inst #": "",
+            "Sale Date": "09/15/1979",
+            "V/I": "I",
+            "Sale Price": "$73,000"
+        },
+        {
+            "Book/Page": "1708 / 0571",
+            "Instr Type": "WD-WARRANTY DEED",
+            "Inst #": "",
+            "Sale Date": "02/15/1974",
+            "V/I": "I",
+            "Sale Price": "$35,000"
+        }
+    ],
+    "land_info": {
+        "land_and_agriculture": [
+            {
+                "#": "1",
+                "Land Code": "8087-VAC GOV - STATE",
+                "Type": "ACRE",
+                "Units": "",
+                "Acres": "4.0000",
+                "Sq Feet": "174,240",
+                "FF": "",
+                "Depth": "",
+                "Rate": "3,500.00",
+                "Just Value": "$14,000"
+            },
+            {
+                "#": "2",
+                "Land Code": "9500-SUBMERGED",
+                "Type": "ACRE",
+                "Units": "",
+                "Acres": "34.5000",
+                "Sq Feet": "1,502,820",
+                "FF": "",
+                "Depth": "",
+                "Rate": "500.00",
+                "Just Value": "$17,250"
+            },
+            {
+                "#": "3",
+                "Land Code": "9600-WASTE LAND",
+                "Type": "ACRE",
+                "Units": "",
+                "Acres": "14.0000",
+                "Sq Feet": "609,840",
+                "FF": "",
+                "Depth": "",
+                "Rate": "1,500.00",
+                "Just Value": "$21,000"
+            }
+        ],
+        "land_summary": {
+            "land_code": "8087-VAC GOV - STATE",
+            "total_land_value": "$14,000",
+            "value/square_feet": ".08",
+            "value/acre": "3,500.00",
+            "depth_factor": "1.00",
+            "location_factor": "100",
+            "influence_1": "-",
+            "influence_2": "-"
+        },
+        "total_land_value": {
+            "total_land_value": "$52,250"
+        },
+        "agval_summary": {
+            "ag_value": "",
+            "appraised_value": "",
+            "non_ag_just_value": "",
+            "total_land_value": ""
+        }
+    },
+    "residential_info": {
+        "residential": {},
+        "addition_to_base_area": [],
+        "total_building_area": {},
+        "building_rates": [],
+        "section_rates": []
+    },
+    "sketch": "",
+    "values": {
+        "working_roll_values": [
+            {
+                "Year": "2021",
+                "Land Value": "$52,250",
+                "Impr Value": "$0",
+                "Just Value": "$52,250",
+                "Non-Sch Assd": "$52,250",
+                "HX Savings": "$0"
+            }
+        ],
+        "working_tax_roll_taxable_values_by_authorities": [
+            {
+                "Auth": "0011",
+                "Authority Name": "REQ LOCAL EFFORT",
+                "Exemption/10Cap": "$52,250",
+                "Taxable": "$0"
+            },
+            {
+                "Auth": "0012",
+                "Authority Name": "DISCRETIONARY",
+                "Exemption/10Cap": "$52,250",
+                "Taxable": "$0"
+            },
+            {
+                "Auth": "0017",
+                "Authority Name": "CAPITAL IMPROVEMENT",
+                "Exemption/10Cap": "$52,250",
+                "Taxable": "$0"
+            },
+            {
+                "Auth": "0050",
+                "Authority Name": "GENERAL FUND",
+                "Exemption/10Cap": "$52,250",
+                "Taxable": "$0"
+            },
+            {
+                "Auth": "0055",
+                "Authority Name": "LIBRARY",
+                "Exemption/10Cap": "$52,250",
+                "Taxable": "$0"
+            },
+            {
+                "Auth": "0057",
+                "Authority Name": "VOLUSIA FOREVER",
+                "Exemption/10Cap": "$52,250",
+                "Taxable": "$0"
+            },
+            {
+                "Auth": "0058",
+                "Authority Name": "VOLUSIA ECHO",
+                "Exemption/10Cap": "$52,250",
+                "Taxable": "$0"
+            },
+            {
+                "Auth": "0059",
+                "Authority Name": "VOLUSIA FOREVER I&S 2005",
+                "Exemption/10Cap": "$52,250",
+                "Taxable": "$0"
+            },
+            {
+                "Auth": "0060",
+                "Authority Name": "ST JOHN'S WATER MANAGEMENT DISTRICT",
+                "Exemption/10Cap": "$52,250",
+                "Taxable": "$0"
+            },
+            {
+                "Auth": "0065",
+                "Authority Name": "FLORIDA INLAND NAVIGATION DISTRICT",
+                "Exemption/10Cap": "$52,250",
+                "Taxable": "$0"
+            },
+            {
+                "Auth": "0070",
+                "Authority Name": "WEST VOLUSIA HOSPITAL AUTHORITY",
+                "Exemption/10Cap": "$52,250",
+                "Taxable": "$0"
+            },
+            {
+                "Auth": "0310",
+                "Authority Name": "VOLUSIA COUNTY MSD",
+                "Exemption/10Cap": "$52,250",
+                "Taxable": "$0"
+            },
+            {
+                "Auth": "0510",
+                "Authority Name": "FIRE DISTRICT",
+                "Exemption/10Cap": "$52,250",
+                "Taxable": "$0"
+            }
+        ],
+        "final_year_certifies_tax_values": [
+            {
+                "Year": "2020",
+                "Land Value": "$52,250",
+                "Impr Value": "$0",
+                "Just Value": "$52,250",
+                "Non-Sch Assd": "$52,250",
+                "Non-Sch Exemptions": "$52,250",
+                "Non-Sch Taxable": "$0",
+                "HX Savings": "$0"
+            },
+            {
+                "Year": "2019",
+                "Land Value": "$51,050",
+                "Impr Value": "$0",
+                "Just Value": "$51,050",
+                "Non-Sch Assd": "$51,050",
+                "Non-Sch Exemptions": "$51,050",
+                "Non-Sch Taxable": "$0",
+                "HX Savings": "$0"
+            },
+            {
+                "Year": "2018",
+                "Land Value": "$50,850",
+                "Impr Value": "$0",
+                "Just Value": "$50,850",
+                "Non-Sch Assd": "$50,850",
+                "Non-Sch Exemptions": "$50,850",
+                "Non-Sch Taxable": "$0",
+                "HX Savings": "$0"
+            },
+            {
+                "Year": "2017",
+                "Land Value": "$50,250",
+                "Impr Value": "$0",
+                "Just Value": "$50,250",
+                "Non-Sch Assd": "$50,250",
+                "Non-Sch Exemptions": "$50,250",
+                "Non-Sch Taxable": "$0",
+                "HX Savings": "$0"
+            },
+            {
+                "Year": "2016",
+                "Land Value": "$53,450",
+                "Impr Value": "$0",
+                "Just Value": "$53,450",
+                "Non-Sch Assd": "$46,282",
+                "Non-Sch Exemptions": "$46,282",
+                "Non-Sch Taxable": "$0",
+                "HX Savings": "$0"
+            },
+            {
+                "Year": "2015",
+                "Land Value": "$52,250",
+                "Impr Value": "$0",
+                "Just Value": "$52,250",
+                "Non-Sch Assd": "$42,075",
+                "Non-Sch Exemptions": "$42,075",
+                "Non-Sch Taxable": "$0",
+                "HX Savings": "$0"
+            },
+            {
+                "Year": "2014",
+                "Land Value": "$38,250",
+                "Impr Value": "$0",
+                "Just Value": "$38,250",
+                "Non-Sch Assd": "$38,250",
+                "Non-Sch Exemptions": "$38,250",
+                "Non-Sch Taxable": "$0",
+                "HX Savings": "$0"
+            },
+            {
+                "Year": "2013",
+                "Land Value": "$38,250",
+                "Impr Value": "$0",
+                "Just Value": "$38,250",
+                "Non-Sch Assd": "$38,250",
+                "Non-Sch Exemptions": "$38,250",
+                "Non-Sch Taxable": "$0",
+                "HX Savings": "$0"
+            },
+            {
+                "Year": "2012",
+                "Land Value": "$86,976",
+                "Impr Value": "$0",
+                "Just Value": "$86,976",
+                "Non-Sch Assd": "$86,976",
+                "Non-Sch Exemptions": "$86,976",
+                "Non-Sch Taxable": "$0",
+                "HX Savings": "$0"
+            }
+        ]
+    },
+    "permits": {
+        "permit_summary": [
+            {
+                "Date": "03/06/2007",
+                "Number": "20070215044",
+                "Description": "DEMO VACATED TAVERN & SFR'S, CARPORT, POOL & SLABS",
+                "Amount": "$0"
+            },
+            {
+                "Date": "09/17/2004",
+                "Number": "20040917032",
+                "Description": "ELEC UPGRD/REP/MISC",
+                "Amount": "$0"
+            },
+            {
+                "Date": "10/18/2002",
+                "Number": "20021018009",
+                "Description": "WELL/PUMP/IRRIGATION",
+                "Amount": "$0"
+            },
+            {
+                "Date": "10/07/1998",
+                "Number": "19981007045",
+                "Description": "STORES/CUST SERVICES",
+                "Amount": "$2,400"
+            },
+            {
+                "Date": "05/28/1998",
+                "Number": "19980514078",
+                "Description": "NON RESIDENTIAL BLDG",
+                "Amount": "$8,000"
+            },
+            {
+                "Date": "03/02/1998",
+                "Number": "19980302030",
+                "Description": "MISCELLANEOUS",
+                "Amount": "$500"
+            },
+            {
+                "Date": "03/02/1998",
+                "Number": "19980302032",
+                "Description": "MISCELLANEOUS",
+                "Amount": "$300"
+            },
+            {
+                "Date": "01/16/1998",
+                "Number": "19980116008",
+                "Description": "ELEC UPGRD/REP/MISC",
+                "Amount": "$500"
+            }
+        ]
+    },
+    "tax_collector": {
+        "amount_due": {
+            "total_amount_due": "",
+            "values": []
+        },
+        "account_history": {
+            "2020_annual_bill": {
+                "status": {
+                    "payments": [
+                        {
+                            "paid": "",
+                            "date": "",
+                            "receipt_number": ""
+                        }
+                    ],
+                    "refund": [],
+                    "installments": {},
+                    "tax_deed": [],
+                    "certificates": []
+                },
+                "amount_due": "$0.00"
+            },
+            "2019_annual_bill": {
+                "status": {
+                    "payments": [
+                        {
+                            "paid": "",
+                            "date": "",
+                            "receipt_number": ""
+                        }
+                    ],
+                    "refund": [],
+                    "installments": {},
+                    "tax_deed": [],
+                    "certificates": []
+                },
+                "amount_due": "$0.00"
+            },
+            "2018_annual_bill": {
+                "status": {
+                    "payments": [
+                        {
+                            "paid": "",
+                            "date": "",
+                            "receipt_number": ""
+                        }
+                    ],
+                    "refund": [],
+                    "installments": {},
+                    "tax_deed": [],
+                    "certificates": []
+                },
+                "amount_due": "$0.00"
+            },
+            "2017_annual_bill": {
+                "status": {
+                    "payments": [
+                        {
+                            "paid": "",
+                            "date": "",
+                            "receipt_number": ""
+                        }
+                    ],
+                    "refund": [],
+                    "installments": {},
+                    "tax_deed": [],
+                    "certificates": []
+                },
+                "amount_due": "$0.00"
+            },
+            "2016_annual_bill": {
+                "status": {
+                    "payments": [
+                        {
+                            "paid": "",
+                            "date": "",
+                            "receipt_number": ""
+                        }
+                    ],
+                    "refund": [],
+                    "installments": {},
+                    "tax_deed": [],
+                    "certificates": []
+                },
+                "amount_due": "$0.00"
+            },
+            "2015_annual_bill": {
+                "status": {
+                    "payments": [
+                        {
+                            "paid": "",
+                            "date": "",
+                            "receipt_number": ""
+                        }
+                    ],
+                    "refund": [],
+                    "installments": {},
+                    "tax_deed": [],
+                    "certificates": []
+                },
+                "amount_due": "$0.00"
+            },
+            "2014_annual_bill": {
+                "status": {
+                    "payments": [
+                        {
+                            "paid": "",
+                            "date": "",
+                            "receipt_number": ""
+                        }
+                    ],
+                    "refund": [],
+                    "installments": {},
+                    "tax_deed": [],
+                    "certificates": []
+                },
+                "amount_due": "$0.00"
+            },
+            "2013_annual_bill": {
+                "status": {
+                    "payments": [
+                        {
+                            "paid": "",
+                            "date": "",
+                            "receipt_number": ""
+                        }
+                    ],
+                    "refund": [],
+                    "installments": {},
+                    "tax_deed": [],
+                    "certificates": []
+                },
+                "amount_due": "$0.00"
+            },
+            "2012_annual_bill": {
+                "status": {
+                    "payments": [
+                        {
+                            "paid": "",
+                            "date": "",
+                            "receipt_number": ""
+                        }
+                    ],
+                    "refund": [],
+                    "installments": {},
+                    "tax_deed": [],
+                    "certificates": []
+                },
+                "amount_due": "$0.00"
+            },
+            "2011_annual_bill": {
+                "status": {
+                    "payments": [
+                        {
+                            "paid": "",
+                            "date": "",
+                            "receipt_number": ""
+                        }
+                    ],
+                    "refund": [],
+                    "installments": {},
+                    "tax_deed": [],
+                    "certificates": []
+                },
+                "amount_due": "$0.00"
+            },
+            "2010_annual_bill": {
+                "status": {
+                    "payments": [
+                        {
+                            "paid": "",
+                            "date": "",
+                            "receipt_number": ""
+                        }
+                    ],
+                    "refund": [],
+                    "installments": {},
+                    "tax_deed": [],
+                    "certificates": []
+                },
+                "amount_due": "$0.00"
+            },
+            "2009_annual_bill": {
+                "status": {
+                    "payments": [
+                        {
+                            "paid": "",
+                            "date": "",
+                            "receipt_number": ""
+                        }
+                    ],
+                    "refund": [
+                        {
+                            "cleard": "$223.41",
+                            "date": "12/06/2010",
+                            "check_number": "Refund",
+                            "recipient": "CB CAPITAL INVESTMENTS FL 010,LP",
+                            "recipient_address": ""
+                        },
+                        {
+                            "cleard": "$262.92",
+                            "date": "04/17/2012",
+                            "check_number": "Refund",
+                            "recipient": "FLORIDA TAX LIEN ASSETS IV LLC",
+                            "recipient_address": ""
+                        }
+                    ],
+                    "installments": {},
+                    "tax_deed": [],
+                    "certificates": []
+                },
+                "amount_due": "$0.00"
+            },
+            "2008_annual_bill": {
+                "status": {
+                    "payments": [
+                        {
+                            "paid": "",
+                            "date": "",
+                            "receipt_number": ""
+                        }
+                    ],
+                    "refund": [],
+                    "installments": {},
+                    "tax_deed": [],
+                    "certificates": []
+                },
+                "amount_due": "$0.00"
+            },
+            "2007_annual_bill": {
+                "status": {
+                    "payments": [
+                        {
+                            "paid": "",
+                            "date": "",
+                            "receipt_number": ""
+                        }
+                    ],
+                    "refund": [
+                        {
+                            "cleard": "$309.42",
+                            "date": "12/06/2010",
+                            "check_number": "Refund",
+                            "recipient": "SCHAEFER, LISA LYNN",
+                            "recipient_address": ""
+                        }
+                    ],
+                    "installments": {},
+                    "tax_deed": [],
+                    "certificates": []
+                },
+                "amount_due": "$0.00"
+            },
+            "2006_annual_bill": {
+                "status": {
+                    "payments": [
+                        {
+                            "paid": "$1,890.95",
+                            "date": "11/30/2006",
+                            "receipt_number": "#2006-8032885"
+                        }
+                    ],
+                    "refund": [],
+                    "installments": {},
+                    "tax_deed": [],
+                    "certificates": []
+                },
+                "amount_due": "$0.00"
+            },
+            "2005_annual_bill": {
+                "status": {
+                    "payments": [
+                        {
+                            "paid": "$2,116.67",
+                            "date": "11/30/2005",
+                            "receipt_number": "#2005-8030310"
+                        }
+                    ],
+                    "refund": [],
+                    "installments": {},
+                    "tax_deed": [],
+                    "certificates": []
+                },
+                "amount_due": "$0.00"
+            },
+            "2004_annual_bill": {
+                "status": {
+                    "payments": [
+                        {
+                            "paid": "$2,003.38",
+                            "date": "11/30/2004",
+                            "receipt_number": "#2004-8174576"
+                        }
+                    ],
+                    "refund": [],
+                    "installments": {},
+                    "tax_deed": [],
+                    "certificates": []
+                },
+                "amount_due": "$0.00"
+            },
+            "2003_annual_bill": {
+                "status": {
+                    "payments": [
+                        {
+                            "paid": "$1,931.89",
+                            "date": "11/30/2003",
+                            "receipt_number": "#2003-8055668"
+                        }
+                    ],
+                    "refund": [],
+                    "installments": {},
+                    "tax_deed": [],
+                    "certificates": []
+                },
+                "amount_due": "$0.00"
+            },
+            "2002_annual_bill": {
+                "status": {
+                    "payments": [
+                        {
+                            "paid": "$1,846.64",
+                            "date": "11/30/2002",
+                            "receipt_number": "#2002-8030091"
+                        }
+                    ],
+                    "refund": [],
+                    "installments": {},
+                    "tax_deed": [],
+                    "certificates": []
+                },
+                "amount_due": "$0.00"
+            },
+            "2001_annual_bill": {
+                "status": {
+                    "payments": [
+                        {
+                            "paid": "$1,798.85",
+                            "date": "11/30/2001",
+                            "receipt_number": "#2001-8193072"
+                        }
+                    ],
+                    "refund": [],
+                    "installments": {},
+                    "tax_deed": [],
+                    "certificates": []
+                },
+                "amount_due": "$0.00"
+            },
+            "2000_annual_bill": {
+                "status": {
+                    "payments": [
+                        {
+                            "paid": "$1,537.41",
+                            "date": "11/30/2000",
+                            "receipt_number": "#2000-8036092"
+                        }
+                    ],
+                    "refund": [],
+                    "installments": {},
+                    "tax_deed": [],
+                    "certificates": []
+                },
+                "amount_due": "$0.00"
+            },
+            "1999_annual_bill": {
+                "status": {
+                    "payments": [
+                        {
+                            "paid": "$1,627.92",
+                            "date": "06/30/1999",
+                            "receipt_number": "#1999-8155528"
+                        }
+                    ],
+                    "refund": [],
+                    "installments": {},
+                    "tax_deed": [],
+                    "certificates": []
+                },
+                "amount_due": "$0.00"
+            }
+        },
+        "parcel_details": {
+            "owner": "STATE OF FLORIDA DOT",
+            "situs": "4200 E SR 46 GENEVA 32764",
+            "account": "010100000010",
+            "millage_code": "2948736",
+            "millage_rate": "100 - County, Westside",
+            "assessed_value": "$52,250",
+            "school_assessed_value": "$52,250",
+            "escrow_company": "19.77160",
+            "2019_annual_bill": [
+                {
+                    "ad_valorem": "$0.00",
+                    "non-ad_valorem": "$0.00",
+                    "total_discountable": "$0.00",
+                    "no_discount_nava": "$0.00",
+                    "total_tax": "$0.00"
+                }
+            ],
+            "legal_description": "1 20 31 ALL N OF ST JOHNS RIVER EXC STATE ROAD RT OF WAY PERDB 404 PG 549 PER OR 2110 PG0299 PER OR 4867 PGS 4033-4034 PER OR 5943 PGS 4196-4199 INC",
+            "location": {
+                "book_page_item": "2110-0299-",
+                "range": "31",
+                "township": "20",
+                "section": "01",
+                "block": "00",
+                "lot": "0010",
+                "use_code": "8000",
+                "total_acres": "0.000"
+            }
+        },
+        "ad_valorem_tax": {
+            "table": {
+                "volusia_county_general_fund": {
+                    "taxing_authority": "VOLUSIA COUNTY GENERAL FUND ",
+                    "millage": "5.45000 ",
+                    "assessed": "52,250 ",
+                    "exemption": "52,250 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "volusia_county_library": {
+                    "taxing_authority": "VOLUSIA COUNTY LIBRARY ",
+                    "millage": "0.51740 ",
+                    "assessed": "52,250 ",
+                    "exemption": "52,250 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "volusia_forever": {
+                    "taxing_authority": "VOLUSIA FOREVER ",
+                    "millage": "0.10520 ",
+                    "assessed": "52,250 ",
+                    "exemption": "52,250 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "volusia_echo": {
+                    "taxing_authority": "VOLUSIA ECHO ",
+                    "millage": "0.00000 ",
+                    "assessed": "52,250 ",
+                    "exemption": "52,250 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "volusia_forever_i&s_2005": {
+                    "taxing_authority": "VOLUSIA FOREVER I&S 2005 ",
+                    "millage": "0.07830 ",
+                    "assessed": "52,250 ",
+                    "exemption": "52,250 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "volusia_county_msd": {
+                    "taxing_authority": "VOLUSIA COUNTY MSD ",
+                    "millage": "2.10830 ",
+                    "assessed": "52,250 ",
+                    "exemption": "52,250 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "volusia_county_fire_district": {
+                    "taxing_authority": "VOLUSIA COUNTY FIRE DISTRICT ",
+                    "millage": "3.84120 ",
+                    "assessed": "52,250 ",
+                    "exemption": "52,250 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "school": {
+                    "taxing_authority": "SCHOOL ",
+                    "millage": "5.90700 ",
+                    "assessed": "52,250 ",
+                    "exemption": "52,250 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "st_johns_water_management_dist": {
+                    "taxing_authority": "ST JOHNS WATER MANAGEMENT DIST ",
+                    "millage": "0.22870 ",
+                    "assessed": "52,250 ",
+                    "exemption": "52,250 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "florida_inland_navigation_dist": {
+                    "taxing_authority": "FLORIDA INLAND NAVIGATION DIST ",
+                    "millage": "0.03200 ",
+                    "assessed": "52,250 ",
+                    "exemption": "52,250 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                },
+                "west_volusia_hospital_authority": {
+                    "taxing_authority": "WEST VOLUSIA HOSPITAL AUTHORITY ",
+                    "millage": "1.50350 ",
+                    "assessed": "52,250 ",
+                    "exemption": "52,250 ",
+                    "taxable": "0 ",
+                    "tax": "$0.00 "
+                }
+            },
+            "total": {
+                "millage": " 19.77160 ",
+                "tax": "$0.00 "
+            }
+        },
+        "non_ad_valorem_assessments": {
+            "table": [],
+            "total": {
+                "t_rate": "",
+                "t_amount": ""
+            }
+        },
+        "mailing_address": {
+            "volusia_county_tax_collector": "123 W. Indiana Ave Rm 103, DeLand, FL 32720"
+        },
+        "latest_annual_bill": {
+            "total": {
+                "bill": "2020 Annual bill ",
+                "alternate_key": "2948736 ",
+                "escrow_code": "\u2014 ",
+                "millage_code": "100 ",
+                "amount_due": " $0.00 "
+            },
+            "pdfurls": [
+                "https://volusia.county-taxes.com//public/real_estate/parcels/010100000010/bills/7348915/print"
+            ],
+            "notices": ""
+        },
+        "combined_tax_collector": "$0.00"
+    }
+}
